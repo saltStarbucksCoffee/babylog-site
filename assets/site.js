@@ -54,22 +54,35 @@
   }
 
   function applyLang(lang) {
-    var nodes = document.querySelectorAll("[data-i18n], [data-i18n-content], [data-i18n-alt], [data-i18n-aria]");
+    var nodes = document.querySelectorAll(
+      "[data-i18n], [data-i18n-content], [data-i18n-alt], [data-i18n-src], [data-i18n-aria]"
+    );
     for (var i = 0; i < nodes.length; i++) {
       var el = nodes[i];
       var key;
+      var value;
+      // 逐个属性独立判断：同一元素常同时带 data-i18n-alt 与 data-i18n-src，
+      // 用 else-if 会让配图永远轮不到切换。
       if ((key = el.getAttribute("data-i18n"))) {
-        var body = text(lang, key);
-        if (body !== null) el.textContent = body;
-      } else if ((key = el.getAttribute("data-i18n-content"))) {
-        var meta = text(lang, key);
-        if (meta !== null) el.setAttribute("content", meta);
-      } else if ((key = el.getAttribute("data-i18n-alt"))) {
-        var alt = text(lang, key);
-        if (alt !== null) el.setAttribute("alt", alt);
-      } else if ((key = el.getAttribute("data-i18n-aria"))) {
-        var label = text(lang, key);
-        if (label !== null) el.setAttribute("aria-label", label);
+        value = text(lang, key);
+        if (value !== null) el.textContent = value;
+      }
+      if ((key = el.getAttribute("data-i18n-content"))) {
+        value = text(lang, key);
+        if (value !== null) el.setAttribute("content", value);
+      }
+      if ((key = el.getAttribute("data-i18n-alt"))) {
+        value = text(lang, key);
+        if (value !== null) el.setAttribute("alt", value);
+      }
+      if ((key = el.getAttribute("data-i18n-src"))) {
+        // 配图随语言切换：截图本身是分语言生成的，不能只换文字。
+        value = text(lang, key);
+        if (value !== null && el.getAttribute("src") !== value) el.setAttribute("src", value);
+      }
+      if ((key = el.getAttribute("data-i18n-aria"))) {
+        value = text(lang, key);
+        if (value !== null) el.setAttribute("aria-label", value);
       }
     }
     document.documentElement.setAttribute("lang", HTML_LANG[lang] || DEFAULT_LANG);

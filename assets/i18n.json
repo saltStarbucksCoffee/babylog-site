@@ -1812,7 +1812,7 @@
       "zh-MO": "主要導覽",
       "en": "Main navigation",
       "ja": "メインナビゲーション",
-      "ko": "주 탐색"
+      "ko": "기본 탐색"
     },
     "common.aria.footerNav": {
       "zh-Hans": "页脚导航",
@@ -1821,16 +1821,61 @@
       "zh-MO": "頁尾導覽",
       "en": "Footer navigation",
       "ja": "フッターナビゲーション",
-      "ko": "푸터 탐색"
+      "ko": "바닥글 탐색"
     },
     "common.aria.language": {
       "zh-Hans": "切换语言",
-      "zh-TW": "選擇語言",
-      "zh-HK": "選擇語言",
-      "zh-MO": "選擇語言",
+      "zh-TW": "切換語言",
+      "zh-HK": "切換語言",
+      "zh-MO": "切換語言",
       "en": "Select language",
       "ja": "言語を選択",
       "ko": "언어 선택"
+    },
+    "index.img.home": {
+      "zh-Hans": "assets/ui-home.zh-Hans.jpg",
+      "zh-TW": "assets/ui-home.zh-Hant.jpg",
+      "zh-HK": "assets/ui-home.zh-Hant.jpg",
+      "zh-MO": "assets/ui-home.zh-Hant.jpg",
+      "en": "assets/ui-home.en.jpg",
+      "ja": "assets/ui-home.ja.jpg",
+      "ko": "assets/ui-home.ko.jpg"
+    },
+    "index.img.record": {
+      "zh-Hans": "assets/ui-record.zh-Hans.jpg",
+      "zh-TW": "assets/ui-record.zh-Hant.jpg",
+      "zh-HK": "assets/ui-record.zh-Hant.jpg",
+      "zh-MO": "assets/ui-record.zh-Hant.jpg",
+      "en": "assets/ui-record.en.jpg",
+      "ja": "assets/ui-record.ja.jpg",
+      "ko": "assets/ui-record.ko.jpg"
+    },
+    "index.img.sleep": {
+      "zh-Hans": "assets/ui-sleep.zh-Hans.jpg",
+      "zh-TW": "assets/ui-sleep.zh-Hant.jpg",
+      "zh-HK": "assets/ui-sleep.zh-Hant.jpg",
+      "zh-MO": "assets/ui-sleep.zh-Hant.jpg",
+      "en": "assets/ui-sleep.en.jpg",
+      "ja": "assets/ui-sleep.ja.jpg",
+      "ko": "assets/ui-sleep.ko.jpg"
+    },
+    "index.img.timeline": {
+      "zh-Hans": "assets/ui-timeline.zh-Hans.jpg",
+      "zh-TW": "assets/ui-timeline.zh-Hant.jpg",
+      "zh-HK": "assets/ui-timeline.zh-Hant.jpg",
+      "zh-MO": "assets/ui-timeline.zh-Hant.jpg",
+      "en": "assets/ui-timeline.en.jpg",
+      "ja": "assets/ui-timeline.ja.jpg",
+      "ko": "assets/ui-timeline.ko.jpg"
+    },
+    "index.img.family": {
+      "zh-Hans": "assets/ui-family.zh-Hans.jpg",
+      "zh-TW": "assets/ui-family.zh-Hant.jpg",
+      "zh-HK": "assets/ui-family.zh-Hant.jpg",
+      "zh-MO": "assets/ui-family.zh-Hant.jpg",
+      "en": "assets/ui-family.en.jpg",
+      "ja": "assets/ui-family.ja.jpg",
+      "ko": "assets/ui-family.ko.jpg"
     }
   },
   "pageKeys": {
@@ -1932,6 +1977,11 @@
       "index.alt.record",
       "index.alt.sleep",
       "index.alt.timeline",
+      "index.img.family",
+      "index.img.home",
+      "index.img.record",
+      "index.img.sleep",
+      "index.img.timeline",
       "index.meta.description",
       "index.meta.title",
       "index.og.description"
