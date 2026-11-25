@@ -1,71 +1,121 @@
-/* 宝宝印记 BabyLog — 官网共享脚本：中英切换 + App Store 链接注入 */
+/* 宝宝印记 BabyLog — 官网共享脚本：七语言切换 + App Store 链接注入 */
 (function () {
   "use strict";
 
-  /* TODO: App 上架后把这里换成 App Store 链接，例如：
-     var APP_STORE_URL = "https://apps.apple.com/cn/app/id1234567890"; */
-  var APP_STORE_URL = "";
-
+  var LANGUAGES = ["zh-Hans", "zh-TW", "zh-HK", "zh-MO", "en", "ja", "ko"];
+  var HTML_LANG = {
+    "zh-Hans": "zh-Hans", "zh-TW": "zh-TW", "zh-HK": "zh-HK",
+    "zh-MO": "zh-MO", "en": "en", "ja": "ja", "ko": "ko"
+  };
+  var DEFAULT_LANG = "zh-Hans";
   var LANG_KEY = "babylog-lang";
+  var STORE_FALLBACK = "https://apps.apple.com/app/id6814028524";
 
-  function currentLang() {
-    var saved = null;
-    try { saved = localStorage.getItem(LANG_KEY); } catch (e) { /* 隐私模式下忽略 */ }
-    if (saved === "zh" || saved === "en") return saved;
-    if (typeof navigator !== "undefined" && navigator.language &&
-        navigator.language.toLowerCase().indexOf("zh") !== 0) return "en";
-    return "zh";
+  var dictionary = null;
+
+  function readStorage() {
+    try { return localStorage.getItem(LANG_KEY); } catch (e) { return null; }
+  }
+
+  function writeStorage(lang) {
+    try { localStorage.setItem(LANG_KEY, lang); } catch (e) { /* 隐私模式忽略 */ }
+  }
+
+  /* ?lang= 优先；其次记住的选择；最后按浏览器语言匹配，未覆盖的语言回退英语。 */
+  function preferredLang() {
+    var query = null;
+    try {
+      query = new URLSearchParams(window.location.search).get("lang");
+    } catch (e) { /* 老浏览器忽略 */ }
+    if (query && LANGUAGES.indexOf(query) !== -1) return query;
+
+    var saved = readStorage();
+    if (saved && LANGUAGES.indexOf(saved) !== -1) return saved;
+
+    var tag = String((navigator.languages && navigator.languages[0]) || navigator.language || "").toLowerCase();
+    if (tag.indexOf("zh") === 0) {
+      if (tag.indexOf("hant") !== -1 || /-(tw|hk|mo)\b/.test(tag)) {
+        if (/-hk\b/.test(tag)) return "zh-HK";
+        if (/-mo\b/.test(tag)) return "zh-MO";
+        return "zh-TW";
+      }
+      return "zh-Hans";
+    }
+    if (tag.indexOf("ja") === 0) return "ja";
+    if (tag.indexOf("ko") === 0) return "ko";
+    if (tag.indexOf("en") === 0) return "en";
+    return "en";
+  }
+
+  function text(lang, key) {
+    if (!dictionary || !dictionary.keys[key]) return null;
+    var value = dictionary.keys[key][lang];
+    return typeof value === "string" && value !== "" ? value : null;
   }
 
   function applyLang(lang) {
-    var nodes = document.querySelectorAll("[data-zh]");
+    var nodes = document.querySelectorAll("[data-i18n], [data-i18n-content], [data-i18n-alt], [data-i18n-aria]");
     for (var i = 0; i < nodes.length; i++) {
       var el = nodes[i];
-      var text = el.getAttribute(lang === "en" ? "data-en" : "data-zh");
-      if (text == null) continue;
-      if (el.getAttribute("data-rich") === "1") {
-        el.innerHTML = text;
-      } else {
-        el.textContent = text;
+      var key;
+      if ((key = el.getAttribute("data-i18n"))) {
+        var body = text(lang, key);
+        if (body !== null) el.textContent = body;
+      } else if ((key = el.getAttribute("data-i18n-content"))) {
+        var meta = text(lang, key);
+        if (meta !== null) el.setAttribute("content", meta);
+      } else if ((key = el.getAttribute("data-i18n-alt"))) {
+        var alt = text(lang, key);
+        if (alt !== null) el.setAttribute("alt", alt);
+      } else if ((key = el.getAttribute("data-i18n-aria"))) {
+        var label = text(lang, key);
+        if (label !== null) el.setAttribute("aria-label", label);
       }
     }
-    document.documentElement.setAttribute("lang", lang === "en" ? "en" : "zh-CN");
-    var btns = document.querySelectorAll(".lang-btn");
-    for (var j = 0; j < btns.length; j++) {
-      btns[j].textContent = lang === "en" ? "中文" : "EN";
-      btns[j].setAttribute("aria-label",
-        lang === "en" ? "切换到中文" : "Switch to English");
-    }
-    try { localStorage.setItem(LANG_KEY, lang); } catch (e) { /* 忽略 */ }
+    document.documentElement.setAttribute("lang", HTML_LANG[lang] || DEFAULT_LANG);
+
+    var selects = document.querySelectorAll(".lang-select");
+    for (var j = 0; j < selects.length; j++) selects[j].value = lang;
   }
 
-  function bindToggle() {
-    var btns = document.querySelectorAll(".lang-btn");
-    for (var i = 0; i < btns.length; i++) {
-      btns[i].addEventListener("click", function () {
-        var next = document.documentElement.getAttribute("lang") === "en" ? "zh" : "en";
-        applyLang(next);
+  function applyStoreLinks(url) {
+    var links = document.querySelectorAll("[data-appstore]");
+    for (var i = 0; i < links.length; i++) links[i].setAttribute("href", url || STORE_FALLBACK);
+  }
+
+  function bindLanguageSelect() {
+    var selects = document.querySelectorAll(".lang-select");
+    for (var i = 0; i < selects.length; i++) {
+      selects[i].addEventListener("change", function (event) {
+        var lang = event.target.value;
+        if (LANGUAGES.indexOf(lang) === -1) return;
+        writeStorage(lang);
+        applyLang(lang);
       });
     }
   }
 
-  function bindStoreLinks() {
-    var links = document.querySelectorAll("[data-appstore]");
-    for (var i = 0; i < links.length; i++) {
-      if (APP_STORE_URL) {
-        links[i].setAttribute("href", APP_STORE_URL);
-      } else {
-        links[i].setAttribute("href", "#");
-        links[i].addEventListener("click", function (e) { e.preventDefault(); });
-        links[i].setAttribute("title", "App Store 链接待上架后配置 / coming soon");
-      }
-    }
-  }
-
   function init() {
-    applyLang(currentLang());
-    bindToggle();
-    bindStoreLinks();
+    var lang = preferredLang();
+    // ?lang= 深链进入后记住选择，否则跳到隐私页/支持页时语言会掉回默认。
+    if (location.search.indexOf("lang=") !== -1) writeStorage(lang);
+    bindLanguageSelect();
+    applyLang(lang);
+
+    fetch("assets/i18n.json", { cache: "no-cache" })
+      .then(function (response) {
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        return response.json();
+      })
+      .then(function (data) {
+        dictionary = data;
+        applyStoreLinks(data._meta && data._meta.appStoreURL);
+        applyLang(lang);
+      })
+      .catch(function () {
+        /* 字典加载失败（file:// 预览等）时保留 HTML 内嵌的简体中文兜底 */
+        applyStoreLinks(STORE_FALLBACK);
+      });
   }
 
   if (document.readyState === "loading") {

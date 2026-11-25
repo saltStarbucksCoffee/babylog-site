@@ -82,14 +82,15 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .nav-links a:hover { color: var(--sage-deep); }
 .nav-links a[aria-current="page"] { color: var(--sage-deep); font-weight: 600; }
 
-.lang-btn {
+.lang-select {
   font-family: var(--font);
   border: 1.5px solid var(--sage);
   background: transparent; color: var(--sage-deep);
   font-size: 13.5px; font-weight: 600;
-  padding: 5px 12px; border-radius: 999px; cursor: pointer;
+  padding: 5px 10px; border-radius: 999px; cursor: pointer;
+  max-width: 11em;
 }
-.lang-btn:hover { background: var(--sage-tint); }
+.lang-select:hover { background: var(--sage-tint); }
 
 /* ---------- 按钮 ---------- */
 .btn {

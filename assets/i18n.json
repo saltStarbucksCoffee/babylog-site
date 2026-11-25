@@ -1,0 +1,2052 @@
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "defaultLanguage": "zh-Hans",
+    "languages": [
+      "zh-Hans",
+      "zh-TW",
+      "zh-HK",
+      "zh-MO",
+      "en",
+      "ja",
+      "ko"
+    ],
+    "appStoreURL": "https://apps.apple.com/app/id6814028524"
+  },
+  "keys": {
+    "index.001_babylog": {
+      "zh-Hans": "宝宝印记",
+      "zh-TW": "寶寶印記",
+      "zh-HK": "寶寶印記",
+      "zh-MO": "寶寶印記",
+      "en": "BabyLog",
+      "ja": "BabyLog",
+      "ko": "BabyLog"
+    },
+    "index.002_home": {
+      "zh-Hans": "首页",
+      "zh-TW": "首頁",
+      "zh-HK": "首頁",
+      "zh-MO": "首頁",
+      "en": "Home",
+      "ja": "ホーム",
+      "ko": "홈"
+    },
+    "index.003_support": {
+      "zh-Hans": "技术支持",
+      "zh-TW": "技術支援",
+      "zh-HK": "技術支援",
+      "zh-MO": "技術支援",
+      "en": "Support",
+      "ja": "サポート",
+      "ko": "고객 지원"
+    },
+    "index.004_privacy": {
+      "zh-Hans": "隐私政策",
+      "zh-TW": "隱私權政策",
+      "zh-HK": "私隱政策",
+      "zh-MO": "私隱政策",
+      "en": "Privacy",
+      "ja": "プライバシー",
+      "ko": "개인정보 보호"
+    },
+    "index.005_every-little-day-gently-kept": {
+      "zh-Hans": "宝宝的每一天，轻松记下",
+      "zh-TW": "寶寶的每一天，輕鬆記下",
+      "zh-HK": "寶寶的每一天，輕鬆記下",
+      "zh-MO": "寶寶的每一天，輕鬆記下",
+      "en": "Every little day, gently kept",
+      "ja": "赤ちゃんの毎日を、そっと記録。",
+      "ko": "아기의 모든 하루를, 가볍게 기록해요"
+    },
+    "index.006_feeding-sleep-care-and-growth-nine-record": {
+      "zh-Hans": "喂养、睡眠、护理、成长——9 类记录一键写下；家人共享同一份宝宝档案，记录默认保存在本机，Pro 可经 iCloud 加密同步。",
+      "zh-TW": "餵養、睡眠、照護、成長——9 類記錄一鍵寫下；家人共用同一份寶寶檔案，記錄預設儲存在本機，Pro 可透過 iCloud 加密同步。",
+      "zh-HK": "餵養、睡眠、照顧、成長——9 類記錄一鍵寫好；家人共用同一份寶寶檔案，記錄預設儲存在本機，Pro 可經 iCloud 加密同步。",
+      "zh-MO": "餵養、睡眠、照顧、成長——9 類記錄一鍵寫好；家人共用同一份寶寶檔案，記錄預設儲存在本機，Pro 可經 iCloud 加密同步。",
+      "en": "Feeding, sleep, care and growth — nine record types, one tap each. The whole family shares one baby profile. Records stay on your device, with encrypted iCloud sync available through Pro.",
+      "ja": "授乳・食事、睡眠、日々のケア、成長——9種類の記録をワンタップで。家族みんなでひとつの赤ちゃんプロフィールを共有します。記録はまず端末内に保存され、ProならiCloud経由で暗号化して同期できます。",
+      "ko": "수유·식사, 수면, 돌봄, 성장까지 — 9가지 기록을 각각 탭 한 번으로 남기세요. 온 가족이 같은 아기 프로필을 함께 쓰며, 기록은 기본으로 기기 안에 저장되고 Pro에서는 iCloud 암호화 동기화를 쓸 수 있어요."
+    },
+    "index.007_download-on-the-app-store": {
+      "zh-Hans": "App Store 下载",
+      "zh-TW": "App Store 下載",
+      "zh-HK": "App Store 下載",
+      "zh-MO": "App Store 下載",
+      "en": "Download on the App Store",
+      "ja": "App Storeでダウンロード",
+      "ko": "App Store에서 다운로드"
+    },
+    "index.008_faq": {
+      "zh-Hans": "常见问题",
+      "zh-TW": "常見問題",
+      "zh-HK": "常見問題",
+      "zh-MO": "常見問題",
+      "en": "FAQ",
+      "ja": "よくある質問",
+      "ko": "자주 묻는 질문"
+    },
+    "index.009_free-download-one-time-pro-purchase-no-sig": {
+      "zh-Hans": "免费下载 · 含一次性 Pro · 无需注册账号 · 支持 iPhone 与 iPad",
+      "zh-TW": "免費下載 · 一次性購買 Pro · 無需註冊帳號 · 支援 iPhone 與 iPad",
+      "zh-HK": "免費下載 · 一次性購買 Pro · 無需註冊帳戶 · 支援 iPhone 與 iPad",
+      "zh-MO": "免費下載 · 一次性購買 Pro · 無需註冊帳戶 · 支援 iPhone 與 iPad",
+      "en": "Free download · One-time Pro purchase · No sign-up · iPhone & iPad",
+      "ja": "無料ダウンロード · Proは買い切り · アカウント登録不要 · iPhone・iPad対応",
+      "ko": "무료 다운로드 · Pro 일회성 구매 · 계정 등록 없음 · iPhone 및 iPad 지원"
+    },
+    "index.010_saved-on-this-device": {
+      "zh-Hans": "已保存到本机",
+      "zh-TW": "已儲存在本機",
+      "zh-HK": "已儲存在本機",
+      "zh-MO": "已儲存在本機",
+      "en": "Saved on this device",
+      "ja": "端末内に保存済み",
+      "ko": "이 기기에 저장됨"
+    },
+    "index.011_sleep-timer-11-5h": {
+      "zh-Hans": "睡眠计时中 · 11.5h",
+      "zh-TW": "睡眠計時中 · 11.5h",
+      "zh-HK": "睡眠計時中 · 11.5h",
+      "zh-MO": "睡眠計時中 · 11.5h",
+      "en": "Sleep timer · 11.5h",
+      "ja": "睡眠タイマー計測中 · 11.5h",
+      "ko": "수면 타이머 진행 중 · 11.5h"
+    },
+    "index.012_pro-can-sync-to-your-icloud": {
+      "zh-Hans": "Pro 可同步到你的 iCloud",
+      "zh-TW": "Pro 可同步到你的 iCloud",
+      "zh-HK": "Pro 可同步到你的 iCloud",
+      "zh-MO": "Pro 可同步到你的 iCloud",
+      "en": "Pro can sync to your iCloud",
+      "ja": "ProならあなたのiCloudに同期できます",
+      "ko": "Pro로 iCloud 동기화"
+    },
+    "index.013_no-tracking-no-ads": {
+      "zh-Hans": "不收集 · 不追踪 · 无广告",
+      "zh-TW": "不收集 · 不追蹤 · 無廣告",
+      "zh-HK": "不收集 · 不追蹤 · 無廣告",
+      "zh-MO": "不收集 · 不追蹤 · 無廣告",
+      "en": "No tracking · No ads",
+      "ja": "収集なし · 追跡なし · 広告なし",
+      "ko": "수집 없음 · 추적 없음 · 광고 없음"
+    },
+    "index.014_offline-basic-records-icloud-sync-with-pro": {
+      "zh-Hans": "基础记录离线可用 · Pro 支持 iCloud 同步",
+      "zh-TW": "基礎記錄離線可用 · Pro 支援 iCloud 同步",
+      "zh-HK": "基礎記錄離線可用 · Pro 支援 iCloud 同步",
+      "zh-MO": "基礎記錄離線可用 · Pro 支援 iCloud 同步",
+      "en": "Offline basic records · iCloud sync with Pro",
+      "ja": "基本の記録はオフラインで利用可 · ProでiCloud同期",
+      "ko": "기본 기록은 오프라인 사용 · Pro에서 iCloud 동기화"
+    },
+    "index.015_9-record-types": {
+      "zh-Hans": "3 组 9 类",
+      "zh-TW": "3 組 9 類",
+      "zh-HK": "3 組 9 類",
+      "zh-MO": "3 組 9 類",
+      "en": "9 record types",
+      "ja": "3グループ・9種類の記録",
+      "ko": "3그룹 9종류"
+    },
+    "index.016_a-full-day-all-in-one-place": {
+      "zh-Hans": "宝宝的一天，都在这里",
+      "zh-TW": "寶寶的一天，都在這裡",
+      "zh-HK": "寶寶的一天，都在這裡",
+      "zh-MO": "寶寶的一天，都在這裡",
+      "en": "A full day, all in one place",
+      "ja": "赤ちゃんの1日が、ここにすべて",
+      "ko": "아기의 하루를 한곳에"
+    },
+    "index.017_no-sign-up-ready-on-first-launch-one-tap-p": {
+      "zh-Hans": "打开即用，不用注册。按类型轻点一下就记好，高频操作还可以从桌面小组件一步直达。",
+      "zh-TW": "開啟即用，不用註冊。按類型輕點一下就記好，常用操作還能從主畫面小組件一步直達。",
+      "zh-HK": "打開即用，不用註冊。按類型點一下就記好，常用操作還可以從桌面小組件一步直達。",
+      "zh-MO": "打開即用，不用註冊。按類型點一下就記好，常用操作還可以從桌面小組件一步直達。",
+      "en": "No sign-up, ready on first launch. One tap per record — and the most frequent ones are one step away from your Home Screen widgets.",
+      "ja": "登録はいりません。インストールしたらすぐ使えます。種類ごとにタップ1つで記録完了。よく使う操作は、ホーム画面のウィジェットからワンタップで呼び出せます。",
+      "ko": "회원가입 없이 켜는 순간 바로 써요. 종류별로 한 번 탭하면 기록 끝, 자주 하는 일은 바탕화면 위젯에서 한 단계 더 빠르게 담을 수 있어요."
+    },
+    "index.018_feeding": {
+      "zh-Hans": "喂养",
+      "zh-TW": "餵養",
+      "zh-HK": "餵養",
+      "zh-MO": "餵養",
+      "en": "Feeding",
+      "ja": "授乳・食事",
+      "ko": "수유·식사"
+    },
+    "index.019_nursing": {
+      "zh-Hans": "母乳",
+      "zh-TW": "母乳",
+      "zh-HK": "母乳",
+      "zh-MO": "母乳",
+      "en": "Nursing",
+      "ja": "母乳",
+      "ko": "모유"
+    },
+    "index.020_per-side-timers": {
+      "zh-Hans": "左右侧分别计时",
+      "zh-TW": "左右側分別計時",
+      "zh-HK": "左右側分別計時",
+      "zh-MO": "左右側分別計時",
+      "en": "Per-side timers",
+      "ja": "左右それぞれで計測",
+      "ko": "좌우 각각 타이머"
+    },
+    "index.021_formula": {
+      "zh-Hans": "配方奶",
+      "zh-TW": "配方奶",
+      "zh-HK": "配方奶粉",
+      "zh-MO": "配方奶粉",
+      "en": "Formula",
+      "ja": "ミルク",
+      "ko": "분유"
+    },
+    "index.022_ml-amounts": {
+      "zh-Hans": "奶量毫升",
+      "zh-TW": "以毫升記奶量",
+      "zh-HK": "以毫升記奶量",
+      "zh-MO": "以毫升記奶量",
+      "en": "ml amounts",
+      "ja": "飲んだ量をmlで",
+      "ko": "ml로 적는 수유량"
+    },
+    "index.023_solid-food": {
+      "zh-Hans": "辅食",
+      "zh-TW": "副食品",
+      "zh-HK": "輔食",
+      "zh-MO": "輔食",
+      "en": "Solid food",
+      "ja": "離乳食",
+      "ko": "이유식"
+    },
+    "index.024_first-bites-count": {
+      "zh-Hans": "第一口也算数",
+      "zh-TW": "第一口也值得記",
+      "zh-HK": "第一口都算數",
+      "zh-MO": "第一口都算數",
+      "en": "First bites count",
+      "ja": "一口目も大事な記録",
+      "ko": "처음 떠본 한 숟가락도 기록돼요"
+    },
+    "index.025_water": {
+      "zh-Hans": "饮水",
+      "zh-TW": "飲水",
+      "zh-HK": "飲水",
+      "zh-MO": "飲水",
+      "en": "Water",
+      "ja": "水分",
+      "ko": "수분"
+    },
+    "index.026_daily-care": {
+      "zh-Hans": "日常护理",
+      "zh-TW": "日常照護",
+      "zh-HK": "日常照顧",
+      "zh-MO": "日常照顧",
+      "en": "Daily care",
+      "ja": "日常ケア",
+      "ko": "일상 돌봄"
+    },
+    "index.027_diaper": {
+      "zh-Hans": "换尿布",
+      "zh-TW": "換尿布",
+      "zh-HK": "換尿片",
+      "zh-MO": "換尿片",
+      "en": "Diaper",
+      "ja": "おむつ替え",
+      "ko": "기저귀"
+    },
+    "index.028_wet-dry-at-a-glance": {
+      "zh-Hans": "状态一目了然",
+      "zh-TW": "狀態一目瞭然",
+      "zh-HK": "狀態一目瞭然",
+      "zh-MO": "狀態一目瞭然",
+      "en": "Wet / dry at a glance",
+      "ja": "状態がひと目で分かる",
+      "ko": "상태가 한눈에"
+    },
+    "index.029_sleep": {
+      "zh-Hans": "睡眠",
+      "zh-TW": "睡眠",
+      "zh-HK": "睡眠",
+      "zh-MO": "睡眠",
+      "en": "Sleep",
+      "ja": "睡眠",
+      "ko": "수면"
+    },
+    "index.030_wake-ups-pause-backfill": {
+      "zh-Hans": "夜醒、暂停、补记",
+      "zh-TW": "夜醒、暫停、補記",
+      "zh-HK": "夜醒、暫停、補記",
+      "zh-MO": "夜醒、暫停、補記",
+      "en": "Wake-ups, pause, backfill",
+      "ja": "夜泣き・一時停止・あとから追加",
+      "ko": "야간 깨어남, 일시정지, 추가 기록"
+    },
+    "index.031_health-growth": {
+      "zh-Hans": "健康与成长",
+      "zh-TW": "健康與成長",
+      "zh-HK": "健康與成長",
+      "zh-MO": "健康與成長",
+      "en": "Health & growth",
+      "ja": "健康と成長",
+      "ko": "건강과 성장"
+    },
+    "index.032_height-weight": {
+      "zh-Hans": "身高体重",
+      "zh-TW": "身高體重",
+      "zh-HK": "身高體重",
+      "zh-MO": "身高體重",
+      "en": "Height & weight",
+      "ja": "身長・体重",
+      "ko": "키·몸무게"
+    },
+    "index.033_watch-them-grow": {
+      "zh-Hans": "看得到的长高",
+      "zh-TW": "看得見的長高",
+      "zh-HK": "看得見的長高",
+      "zh-MO": "看得見的長高",
+      "en": "Watch them grow",
+      "ja": "伸びた分が、ひと目で分かります",
+      "ko": "자라는 게 보이는 기록"
+    },
+    "index.034_temperature": {
+      "zh-Hans": "体温",
+      "zh-TW": "體溫",
+      "zh-HK": "體溫",
+      "zh-MO": "體溫",
+      "en": "Temperature",
+      "ja": "体温",
+      "ko": "체온"
+    },
+    "index.035_c-f-switchable": {
+      "zh-Hans": "℃ / ℉ 自由切换",
+      "zh-TW": "℃ / ℉ 自由切換",
+      "zh-HK": "℃ / ℉ 自由切換",
+      "zh-MO": "℃ / ℉ 自由切換",
+      "en": "°C / °F switchable",
+      "ja": "℃ / ℉ を自由に切替",
+      "ko": "℃ / ℉ 자유롭게 전환"
+    },
+    "index.036_medication": {
+      "zh-Hans": "用药",
+      "zh-TW": "用藥",
+      "zh-HK": "用藥",
+      "zh-MO": "用藥",
+      "en": "Medication",
+      "ja": "服薬",
+      "ko": "약 복용"
+    },
+    "index.037_log-every-dose": {
+      "zh-Hans": "记下每一次",
+      "zh-TW": "記下每一次",
+      "zh-HK": "記下每一次",
+      "zh-MO": "記下每一次",
+      "en": "Log every dose",
+      "ja": "毎回、きちんと記録",
+      "ko": "한 번 한 번 남겨요"
+    },
+    "index.039_remember-every-restless-night": {
+      "zh-Hans": "哄睡的夜，记得更清楚",
+      "zh-TW": "哄睡的夜，記得更清楚",
+      "zh-HK": "哄睡的夜，記得更清楚",
+      "zh-MO": "哄睡的夜，記得更清楚",
+      "en": "Remember every restless night",
+      "ja": "眠れなかった夜も、くわしく残せます",
+      "ko": "달래던 밤도 또렷하게 기억해요"
+    },
+    "index.040_start-the-timer-with-one-tap-pause-anytime": {
+      "zh-Hans": "一键开始计时，随时暂停；夜醒了顺手补一段，忘记录的也能补记。",
+      "zh-TW": "一鍵開始計時，隨時暫停；夜醒了順手補一段，忘記記錄的也能補記。",
+      "zh-HK": "一鍵開始計時，隨時暫停；夜醒了順手補一段，忘記記錄的都可以補記。",
+      "zh-MO": "一鍵開始計時，隨時暫停；夜醒了順手補一段，忘記記錄的都可以補記。",
+      "en": "Start the timer with one tap, pause anytime, log night wake-ups as they happen, and backfill anything you missed.",
+      "ja": "ワンタップでタイマーを開始、いつでも一時停止。夜中に目が覚めたらそのつど追記できて、記録し忘れた分もあとから補えます。",
+      "ko": "탭 한 번으로 타이머를 시작하고 언제든 일시정지할 수 있어요. 밤에 깨면 그 자리에서 한 칸 더 기록하고, 놓친 것도 나중에 채울 수 있어요."
+    },
+    "index.041_quick-start-pause": {
+      "zh-Hans": "快速开始 / 暂停",
+      "zh-TW": "快速開始 / 暫停",
+      "zh-HK": "快速開始 / 暫停",
+      "zh-MO": "快速開始 / 暫停",
+      "en": "Quick start / pause",
+      "ja": "クイック開始 / 一時停止",
+      "ko": "빠른 시작 / 일시정지"
+    },
+    "index.042_easy-even-at-3-a-m": {
+      "zh-Hans": "，深夜操作不费神",
+      "zh-TW": "，深夜操作也不費神",
+      "zh-HK": "，深夜操作也不費神",
+      "zh-MO": "，深夜操作也不費神",
+      "en": " — easy even at 3 a.m.",
+      "ja": "、深夜の3時でも迷わず操作できます",
+      "ko": " — 새벽 세 시에도 수월해요"
+    },
+    "index.043_today-7-day-and-30-day-sleep-review": {
+      "zh-Hans": "今日、7 日、30 日睡眠回顾",
+      "zh-TW": "今日、7 日、30 日睡眠回顧",
+      "zh-HK": "今日、7 日、30 日睡眠回顧",
+      "zh-MO": "今日、7 日、30 日睡眠回顧",
+      "en": "Today, 7-day and 30-day sleep review",
+      "ja": "今日・7日・30日の睡眠振り返り",
+      "ko": "오늘 · 7일 · 30일 수면 되돌아보기"
+    },
+    "index.044_a-home-screen-timer-widget-always-in-sight": {
+      "zh-Hans": "桌面睡眠计时小组件，抬手可见",
+      "zh-TW": "主畫面睡眠計時小組件，抬手就見到",
+      "zh-HK": "桌面睡眠計時小組件，抬手可見",
+      "zh-MO": "桌面睡眠計時小組件，抬手可見",
+      "en": "A Home Screen timer widget, always in sight",
+      "ja": "睡眠タイマーはウィジェットで、いつでも視界に",
+      "ko": "바탕화면 수면 타이머 위젯, 손 뻗으면 보여요"
+    },
+    "index.045_timeline": {
+      "zh-Hans": "时间线",
+      "zh-TW": "時間軸",
+      "zh-HK": "時間軸",
+      "zh-MO": "時間軸",
+      "en": "Timeline",
+      "ja": "タイムライン",
+      "ko": "타임라인"
+    },
+    "index.046_growing-up-frame-by-frame": {
+      "zh-Hans": "长大，是一帧一帧的",
+      "zh-TW": "長大，是一幀一幀的",
+      "zh-HK": "長大，是一幀一幀的",
+      "zh-MO": "長大，是一幀一幀的",
+      "en": "Growing up, frame by frame",
+      "ja": "成長は、1枚ずつの記録",
+      "ko": "성장은 한 컷 한 컷으로"
+    },
+    "index.047_photos-milestones-and-growth-measurements": {
+      "zh-Hans": "照片、里程碑、身高体重成长节点自动汇入时间线——只留值得纪念的时刻，不刷流水账。",
+      "zh-TW": "照片、里程碑、身高體重的成長節點自動匯入時間軸——只留值得紀念的時刻，不刷流水帳。",
+      "zh-HK": "照片、里程碑、身高體重成長節點自動匯入時間軸——只收值得紀念的時刻，不做流水帳。",
+      "zh-MO": "照片、里程碑、身高體重成長節點自動匯入時間軸——只收值得紀念的時刻，不做流水帳。",
+      "en": "Photos, milestones and growth measurements flow into one timeline — the moments worth keeping, not a chore log.",
+      "ja": "写真、マイルストーン、身長・体重の成長ポイントがタイムラインに自動で集まります。残したい瞬間だけ。日々の作業記録は流れ込みません。",
+      "ko": "사진, 마일스톤, 키·몸무게 측정값이 타임라인에 자동으로 모여요. 남길 만한 순간만 담고, 일상 기록으로 어지럽히지 않아요."
+    },
+    "index.048_first-swim-first-word-all-findable": {
+      "zh-Hans": "第一次游泳、第一次叫妈妈，都找得到",
+      "zh-TW": "第一次游泳、第一次叫媽媽，都找得到",
+      "zh-HK": "第一次游泳、第一次叫媽媽，都找得到",
+      "zh-MO": "第一次游泳、第一次叫媽媽，都找得到",
+      "en": "First swim, first word — all findable",
+      "ja": "初めての水泳、初めての「ママ」。見つからないことはありません",
+      "ko": "첫 물놀이, 첫 단어까지 다시 찾을 수 있어요"
+    },
+    "index.049_browse-by-month-growth-nodes-clearly-marke": {
+      "zh-Hans": "按月份浏览，成长节点清晰标注",
+      "zh-TW": "按月份瀏覽，成長節點清楚標示",
+      "zh-HK": "按月份瀏覽，成長節點清楚標示",
+      "zh-MO": "按月份瀏覽，成長節點清楚標示",
+      "en": "Browse by month, growth nodes clearly marked",
+      "ja": "月ごとにたどれて、成長のポイントがくっきり",
+      "ko": "월별로 둘러보고 성장 지점은 또렷하게 표시"
+    },
+    "index.050_daily-care-logs-never-clutter-the-timeline": {
+      "zh-Hans": "喂养、尿布这些日常操作不会打扰时间线",
+      "zh-TW": "餵養、尿布這些日常記錄不會打擾時間軸",
+      "zh-HK": "餵養、尿片這些日常記錄不會打擾時間軸",
+      "zh-MO": "餵養、尿片這些日常記錄不會打擾時間軸",
+      "en": "Daily care logs never clutter the timeline",
+      "ja": "授乳やおむつ替えなどの日々の記録は、タイムラインを埋めません",
+      "ko": "수유·기저귀 같은 일상 기록은 타임라인을 건드리지 않아요"
+    },
+    "index.051_family-sharing": {
+      "zh-Hans": "家庭共享",
+      "zh-TW": "家庭共享",
+      "zh-HK": "家庭共享",
+      "zh-MO": "家庭共享",
+      "en": "Family sharing",
+      "ja": "家族共有",
+      "ko": "가족 공유"
+    },
+    "index.052_raising-together-never-clashing": {
+      "zh-Hans": "一起带娃，互不打架",
+      "zh-TW": "一起帶孩子，不會亂了套",
+      "zh-HK": "一起湊仔，不會亂了陣腳",
+      "zh-MO": "一起湊仔，不會亂了陣腳",
+      "en": "Raising together, never clashing",
+      "ja": "みんなで育てても、記録は乱れません",
+      "ko": "함께 키우되, 겹치지 않아요"
+    },
+    "index.053_invite-family-via-icloud-everyone-logs-the": {
+      "zh-Hans": "通过 iCloud 邀请家人加入同一个家庭。谁喂的奶、谁换的尿布，各自记录、实时同步，看娃的人也始终不掉队。",
+      "zh-TW": "用 iCloud 邀請家人加入同一個家庭。誰餵的奶、誰換的尿布，各自記錄、即時同步，照顧孩子的人永遠跟得上。",
+      "zh-HK": "經 iCloud 邀請家人加入同一個家庭。誰餵的奶、誰換的尿片，各自記錄、實時同步，照顧寶寶的人也不會脫節。",
+      "zh-MO": "經 iCloud 邀請家人加入同一個家庭。誰餵的奶、誰換的尿片，各自記錄、實時同步，照顧寶寶的人也不會脫節。",
+      "en": "Invite family via iCloud. Everyone logs their own feeding and diaper changes, synced in real time — even the grandparents just watching stay in the loop.",
+      "ja": "iCloudで家族を同じ家庭に招待できます。誰が授乳し誰がおむつを替えたか、各自が記録してリアルタイムに同期。見守るだけの祖父母も、最新の状況を逃しません。",
+      "ko": "iCloud로 가족을 초대해 같은 가족에서 지내요. 누가 먹이고 누가 기저귀를 갈았는지 각자 기록하고 실시간으로 동기화되니, 보기만 하는 가족도 늘 같은 이야기를 봐요."
+    },
+    "index.054_owner-manage": {
+      "zh-Hans": "owner · 管理家庭",
+      "zh-TW": "家庭管理員 · 管理家庭",
+      "zh-HK": "家庭管理員 · 管理家庭",
+      "zh-MO": "家庭管理員 · 管理家庭",
+      "en": "owner · Manage",
+      "ja": "オーナー · 家族の管理",
+      "ko": "소유자 · 가족 관리"
+    },
+    "index.055_create-the-family-invite-or-remove-members": {
+      "zh-Hans": "创建家庭、邀请或移除成员、管理宝宝档案。",
+      "zh-TW": "建立家庭、邀請或移除成員、管理寶寶檔案。",
+      "zh-HK": "建立家庭、邀請或移除成員、管理寶寶檔案。",
+      "zh-MO": "建立家庭、邀請或移除成員、管理寶寶檔案。",
+      "en": "Create the family, invite or remove members, manage baby profiles.",
+      "ja": "家庭の作成、メンバーの招待・削除、赤ちゃんプロフィールの管理ができます。",
+      "ko": "가족을 만들고 구성원을 초대하거나 제거하며 아기 프로필을 관리해요."
+    },
+    "index.056_editor-edit": {
+      "zh-Hans": "editor · 编辑记录",
+      "zh-TW": "編輯成員 · 編輯記錄",
+      "zh-HK": "編輯成員 · 編輯記錄",
+      "zh-MO": "編輯成員 · 編輯記錄",
+      "en": "editor · Edit",
+      "ja": "編集メンバー · 記録と編集",
+      "ko": "편집자 · 기록 편집"
+    },
+    "index.057_records-and-edits-just-like-the-owner-the": {
+      "zh-Hans": "和 owner 一样记录与修改，日常带娃的主力。",
+      "zh-TW": "和家庭管理員一樣記錄與修改，日常帶孩子的主力。",
+      "zh-HK": "和家庭管理員一樣記錄與修改，日常湊仔的主力。",
+      "zh-MO": "和家庭管理員一樣記錄與修改，日常湊仔的主力。",
+      "en": "Records and edits just like the owner — the day-to-day caregiver.",
+      "ja": "オーナーと同じように記録・編集できます。日々お世話する方の役割です。",
+      "ko": "소유자와 똑같이 기록하고 수정해요. 매일 돌봄을 맡는 사람이 주로 쓰는 역할이에요."
+    },
+    "index.058_viewer-read-only": {
+      "zh-Hans": "viewer · 只读查看",
+      "zh-TW": "唯讀成員 · 只能查看",
+      "zh-HK": "唯讀成員 · 只能查看",
+      "zh-MO": "唯讀成員 · 只能查看",
+      "en": "viewer · Read-only",
+      "ja": "閲覧メンバー · 閲覧のみ",
+      "ko": "뷰어 · 읽기 전용"
+    },
+    "index.059_perfect-for-grandparents-see-everything-ch": {
+      "zh-Hans": "适合老人或看娃的人，随时了解近况，不会误改记录。",
+      "zh-TW": "適合長輩或照顧孩子的人，隨時了解近況，不會誤改記錄。",
+      "zh-HK": "適合長者或照顧寶寶的人，隨時掌握近況，不會誤改記錄。",
+      "zh-MO": "適合長者或照顧寶寶的人，隨時掌握近況，不會誤改記錄。",
+      "en": "Perfect for grandparents — see everything, change nothing by accident.",
+      "ja": "祖父母や見る専門の方にぴったり。すべて見られて、うっかり書き換えることもありません。",
+      "ko": "할머니·할아버지나 돕는 가족에게 잘 맞아요. 다 볼 수 있고 실수로 바꿀 일은 없어요."
+    },
+    "index.060_your-data-your-rules": {
+      "zh-Hans": "数据只属于你",
+      "zh-TW": "資料只屬於你",
+      "zh-HK": "資料只屬於你",
+      "zh-MO": "資料只屬於你",
+      "en": "Your data, your rules",
+      "ja": "データは、あなたのもの",
+      "ko": "데이터는 오로지 당신의 것"
+    },
+    "index.061_we-can-t-see-it-by-design": {
+      "zh-Hans": "我们看不到，也拿不到",
+      "zh-TW": "我們看不到，也拿不到",
+      "zh-HK": "我們看不到，也拿不到",
+      "zh-MO": "我們看不到，也拿不到",
+      "en": "We can't see it — by design",
+      "ja": "私たちは見られません。それが設計です",
+      "ko": "우리는 볼 수도, 가질 수도 없어요"
+    },
+    "index.062_no-accounts-no-servers-of-ours-records-liv": {
+      "zh-Hans": "没有账号体系，没有自建服务器。记录保存在本机；购买 Pro 并登录 iCloud 后，记录经加密同步到你的私有空间，开发团队无法查看。",
+      "zh-TW": "沒有帳號系統，也沒有自建伺服器。記錄儲存在本機；購買 Pro 並登入 iCloud 後，記錄會加密同步到你的私人空間，開發團隊無法檢視。",
+      "zh-HK": "沒有帳戶系統，沒有自建伺服器。記錄儲存在本機；購買 Pro 並登入 iCloud 後，記錄經加密同步到你的私人空間，開發團隊無法查閱。",
+      "zh-MO": "沒有帳戶系統，沒有自建伺服器。記錄儲存在本機；購買 Pro 並登入 iCloud 後，記錄經加密同步到你的私人空間，開發團隊無法查閱。",
+      "en": "No accounts, no servers of ours. Records live on your device; with Pro and iCloud, they sync encrypted to your private iCloud space — the developers cannot read them.",
+      "ja": "アカウントも、自社サーバーもありません。記録は端末内に保存されます。Proを購入してiCloudにサインインすると、あなただけのiCloud領域に暗号化して同期され、開発チームが読み見ることはありません。",
+      "ko": "계정 체계도, 우리가 쓰는 서버도 없어요. 기록은 기기에만 저장되고, Pro를 구입해 iCloud에 로그인하면 암호화된 상태로 당신의 전용 iCloud 공간에 동기화돼요. 개발 팀은 어떤 기록도 읽을 수 없어요."
+    },
+    "index.063_basic-records-work-without-signing-in-to-i": {
+      "zh-Hans": "不登录 iCloud 也能使用基础记录功能",
+      "zh-TW": "不登入 iCloud 也能使用基本記錄功能",
+      "zh-HK": "不登入 iCloud 也能使用基本記錄功能",
+      "zh-MO": "不登入 iCloud 也能使用基本記錄功能",
+      "en": "Basic records work without signing in to iCloud",
+      "ja": "iCloudにサインインしなくても、基本の記録は使えます",
+      "ko": "iCloud 로그인 없이도 기본 기록은 쓸 수 있어요"
+    },
+    "index.064_export-a-zip-backup-anytime-your-data-trav": {
+      "zh-Hans": "随时导出 ZIP 备份，数据可以带走",
+      "zh-TW": "隨時匯出 ZIP 備份，資料跟著你走",
+      "zh-HK": "隨時匯出 ZIP 備份，資料帶得走",
+      "zh-MO": "隨時匯出 ZIP 備份，資料帶得走",
+      "en": "Export a ZIP backup anytime — your data travels with you",
+      "ja": "いつでもZIPでバックアップを書き出せ、データは持ち運べます",
+      "ko": "언제든 ZIP 백업으로 내보내기 — 데이터도 당신과 함께 이동해요"
+    },
+    "index.065_no-ads-no-third-party-analytics-sdks": {
+      "zh-Hans": "无广告、无第三方统计 SDK",
+      "zh-TW": "無廣告、無第三方統計 SDK",
+      "zh-HK": "無廣告、無第三方統計 SDK",
+      "zh-MO": "無廣告、無第三方統計 SDK",
+      "en": "No ads, no third-party analytics SDKs",
+      "ja": "広告なし、第三者解析SDKなし",
+      "ko": "광고 없음, 서드파티 분석 SDK 없음"
+    },
+    "index.066_home-screen-widgets": {
+      "zh-Hans": "桌面小组件",
+      "zh-TW": "主畫面小組件",
+      "zh-HK": "桌面小組件",
+      "zh-MO": "桌面小組件",
+      "en": "Home Screen widgets",
+      "ja": "ホーム画面のウィジェット",
+      "ko": "바탕화면 위젯"
+    },
+    "index.067_one-glance-one-tap": {
+      "zh-Hans": "抬手就记，不用找 App",
+      "zh-TW": "抬手就記，不用找 App",
+      "zh-HK": "抬手就記，不用找 App",
+      "zh-MO": "抬手就記，不用找 App",
+      "en": "One glance, one tap",
+      "ja": "アプリを開かずに、見て1タップ",
+      "ko": "한 번 보고, 한 번 탭"
+    },
+    "index.068_daily-overview": {
+      "zh-Hans": "首页概览",
+      "zh-TW": "首頁概覽",
+      "zh-HK": "首頁概覽",
+      "zh-MO": "首頁概覽",
+      "en": "Daily overview",
+      "ja": "今日の概要",
+      "ko": "오늘 현황"
+    },
+    "index.069_today-s-feeding-sleep-and-diaper-summary-a": {
+      "zh-Hans": "今天的喂养、睡眠、尿布概况，一眼掌握。",
+      "zh-TW": "今天的餵養、睡眠、尿布概況，一眼掌握。",
+      "zh-HK": "今天的餵養、睡眠、尿片概況，一眼掌握。",
+      "zh-MO": "今天的餵養、睡眠、尿片概況，一眼掌握。",
+      "en": "Today's feeding, sleep and diaper summary at a glance.",
+      "ja": "今日の授乳・睡眠・おむつを、ひと目で把握できます。",
+      "ko": "오늘의 수유, 수면, 기저귀 현황을 한눈에 확인해요."
+    },
+    "index.070_sleep-timer": {
+      "zh-Hans": "睡眠计时",
+      "zh-TW": "睡眠計時",
+      "zh-HK": "睡眠計時",
+      "zh-MO": "睡眠計時",
+      "en": "Sleep timer",
+      "ja": "睡眠タイマー",
+      "ko": "수면 타이머"
+    },
+    "index.071_see-the-running-timer-anytime-start-and-st": {
+      "zh-Hans": "计时中的睡眠随时可见，开始与结束一步完成。",
+      "zh-TW": "計時中的睡眠隨時可見，開始與結束一步完成。",
+      "zh-HK": "計時中的睡眠隨時可見，開始與結束一步完成。",
+      "zh-MO": "計時中的睡眠隨時可見，開始與結束一步完成。",
+      "en": "See the running timer anytime; start and stop in one step.",
+      "ja": "計測中のタイムをいつでも確認でき、開始も終了も1タップです。",
+      "ko": "돌아가는 타이머를 언제든 볼 수 있고 시작과 종료도 한 단계예요."
+    },
+    "index.072_quick-record": {
+      "zh-Hans": "快速记录",
+      "zh-TW": "快速記錄",
+      "zh-HK": "快速記錄",
+      "zh-MO": "快速記錄",
+      "en": "Quick record",
+      "ja": "クイック記録",
+      "ko": "빠른 기록"
+    },
+    "index.073_nursing-formula-and-diaper-changes-right-f": {
+      "zh-Hans": "母乳、配方奶、换尿布，从桌面直接记。",
+      "zh-TW": "母乳、配方奶、換尿布，從主畫面直接記。",
+      "zh-HK": "母乳、配方奶粉、換尿片，從桌面直接記。",
+      "zh-MO": "母乳、配方奶粉、換尿片，從桌面直接記。",
+      "en": "Nursing, formula and diaper changes — right from the Home Screen.",
+      "ja": "母乳・ミルク・おむつ替えを、ホーム画面からそのまま記録。",
+      "ko": "모유, 분유, 기저귀 교체까지 바탕화면에서 바로 기록해요."
+    },
+    "index.074_honest-by-design": {
+      "zh-Hans": "诚实的设计",
+      "zh-TW": "誠實的設計",
+      "zh-HK": "誠實的設計",
+      "zh-MO": "誠實的設計",
+      "en": "Honest by design",
+      "ja": "ごまかしのない設計",
+      "ko": "정직하게 설계했어요"
+    },
+    "index.075_some-things-we-do-on-purpose-by-not-doing": {
+      "zh-Hans": "有些事，我们刻意不做",
+      "zh-TW": "有些事，我們刻意不做",
+      "zh-HK": "有些事，我們刻意不做",
+      "zh-MO": "有些事，我們刻意不做",
+      "en": "Some things we do on purpose — by not doing them",
+      "ja": "あえて、やらないことがあります",
+      "ko": "일부러 하지 않은 것들이 있어요"
+    },
+    "index.076_a-logging-tool-should-never-overstep-on-he": {
+      "zh-Hans": "涉及健康的事，记录工具不该越界替你判断。我们把专业的事留给专业的人。",
+      "zh-TW": "涉及健康的事，記錄工具不該越界替你判斷。我們把專業的事留給專業的人。",
+      "zh-HK": "涉及健康的事，記錄工具不該越界替你判斷。我們把專業的事留給專業的人。",
+      "zh-MO": "涉及健康的事，記錄工具不該越界替你判斷。我們把專業的事留給專業的人。",
+      "en": "A logging tool should never overstep on health. We leave the professional calls to the professionals.",
+      "ja": "健康にかかわることへ、記録ツールが一歩踏み込むべきではありません。プロの判断は、プロの方にお任せください。",
+      "ko": "건강 문제에서 기록 도구가 대신 판단해서는 안 돼요. 전문적인 결정은 전문가에게 맡기는 쪽을 골랐어요."
+    },
+    "index.077_no-fever-flagging": {
+      "zh-Hans": "不做发烧判断",
+      "zh-TW": "不做發燒判斷",
+      "zh-HK": "不做發燒判斷",
+      "zh-MO": "不做發燒判斷",
+      "en": "No fever flagging",
+      "ja": "発熱の判定はしません",
+      "ko": "발열 판단을 하지 않아요"
+    },
+    "index.078_temperatures-are-logged-as-is-no-threshold": {
+      "zh-Hans": "——体温只客观记录，不标红、不设阈值",
+      "zh-TW": "——體溫只如實記錄，不標紅、不設閾值",
+      "zh-HK": "——體溫只如實記錄，不標紅、不設閾值",
+      "zh-MO": "——體溫只如實記錄，不標紅、不設閾值",
+      "en": " — temperatures are logged as-is, no thresholds",
+      "ja": "（体温はありのまま記録するだけ。赤くもせず、しきい値も設けません）",
+      "ko": " — 체온은 있는 그대로, 색 표시도 기준선도 없어요"
+    },
+    "index.079_no-bmi-or-percentiles": {
+      "zh-Hans": "不算 BMI / 百分位",
+      "zh-TW": "不算 BMI / 百分位",
+      "zh-HK": "不算 BMI / 百分位",
+      "zh-MO": "不算 BMI / 百分位",
+      "en": "No BMI or percentiles",
+      "ja": "BMIもパーセンタイルも出しません",
+      "ko": "BMI·백분위를 계산하지 않아요"
+    },
+    "index.080_review-growth-with-your-pediatrician": {
+      "zh-Hans": "——成长曲线请和儿保医生一起看",
+      "zh-TW": "——成長曲線請和兒科醫師一起看",
+      "zh-HK": "——成長曲線請與兒科醫生一起看",
+      "zh-MO": "——成長曲線請與兒科醫生一起看",
+      "en": " — review growth with your pediatrician",
+      "ja": "（成長曲線は、乳児健診の医師とともにご覧ください）",
+      "ko": " — 성장 곡선은 소아과 의사와 함께 보세요"
+    },
+    "index.081_no-medication-advice": {
+      "zh-Hans": "不做用药建议",
+      "zh-TW": "不做用藥建議",
+      "zh-HK": "不做用藥建議",
+      "zh-MO": "不做用藥建議",
+      "en": "No medication advice",
+      "ja": "服薬のアドバイスはしません",
+      "ko": "약 복용 조언을 하지 않아요"
+    },
+    "index.082_no-reminders-no-dosage-suggestions": {
+      "zh-Hans": "——不提醒、不推荐剂量",
+      "zh-TW": "——不提醒、不推薦劑量",
+      "zh-HK": "——不提醒、不推薦劑量",
+      "zh-MO": "——不提醒、不推薦劑量",
+      "en": " — no reminders, no dosage suggestions",
+      "ja": "（お知らせも、用量のご提案もいたしません）",
+      "ko": " — 알림도 용량 추천도 없어요"
+    },
+    "index.083_profiles-archive-never-delete": {
+      "zh-Hans": "宝宝档案只归档",
+      "zh-TW": "寶寶檔案只歸檔",
+      "zh-HK": "寶寶檔案只歸檔",
+      "zh-MO": "寶寶檔案只歸檔",
+      "en": "Profiles archive, never delete",
+      "ja": "赤ちゃんプロフィールはアーカイブのみ",
+      "ko": "아기 프로필은 보관만 해요"
+    },
+    "index.084_the-growth-record-stays-complete": {
+      "zh-Hans": "——留一份完整的成长底稿",
+      "zh-TW": "——留一份完整的成長底稿",
+      "zh-HK": "——留一份完整的成長底稿",
+      "zh-MO": "——留一份完整的成長底稿",
+      "en": " — the growth record stays complete",
+      "ja": "（成長の記録を、途切れずに残せます）",
+      "ko": " — 성장 기록을 끝까지 남기기 위해"
+    },
+    "index.085_start-today-s-first-record-now": {
+      "zh-Hans": "今天的第一条记录，从现在开始",
+      "zh-TW": "今天的第一筆記錄，從現在開始",
+      "zh-HK": "今天的第一條記錄，現在開始",
+      "zh-MO": "今天的第一條記錄，現在開始",
+      "en": "Start today's first record now",
+      "ja": "今日最初の1件を、いま記録しましょう",
+      "ko": "오늘의 첫 기록, 지금 시작해 보세요"
+    },
+    "index.086_free-to-download-with-a-one-time-pro-optio": {
+      "zh-Hans": "免费下载，含一次性 Pro。打开即用，宝宝长大的每一天，都值得被好好记下。",
+      "zh-TW": "免費下載，含一次性 Pro。開啟即用，寶寶長大的每一天，都值得好好記下。",
+      "zh-HK": "免費下載，含一次性 Pro。打開即用，寶寶長大的每一天，都值得好好記下。",
+      "zh-MO": "免費下載，含一次性 Pro。打開即用，寶寶長大的每一天，都值得好好記下。",
+      "en": "Free to download, with a one-time Pro option. Ready to use, because every day of your baby's growth deserves to be kept well.",
+      "ja": "無料でダウンロード、Proは買い切りです。開けばすぐ使えます。赤ちゃんが育つ一日一日を、ちゃんと残しましょう。",
+      "ko": "무료 다운로드에 Pro는 일회성 구매예요. 켜는 순간 바로 쓸 수 있고, 아기가 자라는 모든 하루는 제대로 남길 만한 가치가 있어요."
+    },
+    "index.088_questions-or-suggestions-reach-us-via-the": {
+      "zh-Hans": "如有问题或建议，欢迎通过支持页面联系我们。",
+      "zh-TW": "如有問題或建議，歡迎透過支援頁面與我們聯絡。",
+      "zh-HK": "如有問題或建議，歡迎經支援頁面與我們聯絡。",
+      "zh-MO": "如有問題或建議，歡迎經支援頁面與我們聯絡。",
+      "en": "Questions or suggestions? Reach us via the support page.",
+      "ja": "ご質問やご意見は、サポートページからお寄せください。",
+      "ko": "문의나 제안은 지원 페이지에서 보내주세요."
+    },
+    "index.089_babylog": {
+      "zh-Hans": "宝宝印记 BabyLog",
+      "zh-TW": "寶寶印記 BabyLog",
+      "zh-HK": "寶寶印記 BabyLog",
+      "zh-MO": "寶寶印記 BabyLog",
+      "en": "BabyLog",
+      "ja": "BabyLog",
+      "ko": "BabyLog"
+    },
+    "index.091_privacy-policy": {
+      "zh-Hans": "隐私政策",
+      "zh-TW": "隱私權政策",
+      "zh-HK": "私隱政策",
+      "zh-MO": "私隱政策",
+      "en": "Privacy Policy",
+      "ja": "プライバシーポリシー",
+      "ko": "개인정보 처리방침"
+    },
+    "index.092_feedback": {
+      "zh-Hans": "问题反馈",
+      "zh-TW": "問題回饋",
+      "zh-HK": "意見回饋",
+      "zh-MO": "意見回饋",
+      "en": "Feedback",
+      "ja": "フィードバック",
+      "ko": "피드백"
+    },
+    "support.001_babylog": {
+      "zh-Hans": "宝宝印记",
+      "zh-TW": "寶寶印記",
+      "zh-HK": "寶寶印記",
+      "zh-MO": "寶寶印記",
+      "en": "BabyLog",
+      "ja": "BabyLog",
+      "ko": "BabyLog"
+    },
+    "support.002_home": {
+      "zh-Hans": "首页",
+      "zh-TW": "首頁",
+      "zh-HK": "首頁",
+      "zh-MO": "首頁",
+      "en": "Home",
+      "ja": "ホーム",
+      "ko": "홈"
+    },
+    "support.003_support": {
+      "zh-Hans": "技术支持",
+      "zh-TW": "技術支援",
+      "zh-HK": "技術支援",
+      "zh-MO": "技術支援",
+      "en": "Support",
+      "ja": "サポート",
+      "ko": "고객 지원"
+    },
+    "support.004_privacy": {
+      "zh-Hans": "隐私政策",
+      "zh-TW": "隱私權政策",
+      "zh-HK": "私隱政策",
+      "zh-MO": "私隱政策",
+      "en": "Privacy",
+      "ja": "プライバシー",
+      "ko": "개인정보 보호"
+    },
+    "support.006_most-answers-live-in-the-faq-below-if-your": {
+      "zh-Hans": "大多数问题都能在下面的常见问答里找到答案。没找到的话，欢迎到 GitHub Issues 告诉我们。",
+      "zh-TW": "大多數問題都能在下面的常見問答裡找到答案。找不到的話，歡迎到 GitHub Issues 告訴我們。",
+      "zh-HK": "大部分問題都可在下面的常見問答裡找到答案。找不到的話，歡迎到 GitHub Issues 告訴我們。",
+      "zh-MO": "大部分問題都可在下面的常見問答裡找到答案。找不到的話，歡迎到 GitHub Issues 告訴我們。",
+      "en": "Most answers live in the FAQ below. If yours isn't there, let us know on GitHub Issues.",
+      "ja": "たいていのご質問には、下のよくある質問でお答えしています。見つからないときは、GitHub Issuesでお知らせください。",
+      "ko": "대부분의 답은 아래 자주 묻는 질문에 있어요. 여기서 찾지 못했다면 GitHub Issues에 알려 주세요."
+    },
+    "support.007_report-an-issue-suggest": {
+      "zh-Hans": "反馈问题 / 提建议",
+      "zh-TW": "回饋問題 / 提建議",
+      "zh-HK": "反映問題 / 提建議",
+      "zh-MO": "反映問題 / 提建議",
+      "en": "Report an issue / suggest",
+      "ja": "不具合の報告・ご提案",
+      "ko": "문제 신고 / 제안하기"
+    },
+    "support.008_open-a-new-topic-in-github-issues-please-i": {
+      "zh-Hans": "在 GitHub Issues 里新建一个话题即可。描述问题时请附上：设备型号、iOS 版本、问题的操作步骤和现象截图。",
+      "zh-TW": "在 GitHub Issues 新增一則討論串即可。描述問題時請附上：裝置型號、iOS 版本、問題的操作步驟與畫面截圖。",
+      "zh-HK": "在 GitHub Issues 開啟一個新議題即可。描述問題時請附上：裝置型號、iOS 版本、問題的操作步驟與情況截圖。",
+      "zh-MO": "在 GitHub Issues 開啟一個新議題即可。描述問題時請附上：裝置型號、iOS 版本、問題的操作步驟與情況截圖。",
+      "en": "Open a new topic in GitHub Issues. Please include your device model, iOS version, the steps to reproduce, and a screenshot.",
+      "ja": "GitHub Issuesで新しいトピックを作成してください。その際に端末のモデル、iOSのバージョン、再現手順、現象のスクリーンショットを添えていただけると助かります。",
+      "ko": "GitHub Issues에서 새 이슈를 열어 주세요. 쓸 때 기기 모델, iOS 버전, 문제가 생긴 단계와 증상 스크린샷을 함께 적어 주면 좋아요."
+    },
+    "support.009_note-please-never-paste-your-baby-s-photos": {
+      "zh-Hans": "注意：请勿在 Issue 中粘贴宝宝照片、姓名或健康记录等隐私内容。",
+      "zh-TW": "注意：請勿在 Issue 中貼上寶寶照片、姓名或健康記錄等隱私內容。",
+      "zh-HK": "注意：請勿在 Issue 中貼上寶寶照片、姓名或健康記錄等私隱內容。",
+      "zh-MO": "注意：請勿在 Issue 中貼上寶寶照片、姓名或健康記錄等私隱內容。",
+      "en": "Note: please never paste your baby's photos, name or health records into an issue.",
+      "ja": "注意：Issueに赤ちゃんの写真やお名前、健康記録などの個人情報を貼り付けないでください。",
+      "ko": "주의: 이슈에는 아기 사진이나 이름, 건강 기록 같은 개인정보를 붙여 넣지 말아 주세요."
+    },
+    "support.010_open-github-issues": {
+      "zh-Hans": "前往 GitHub Issues",
+      "zh-TW": "前往 GitHub Issues",
+      "zh-HK": "前往 GitHub Issues",
+      "zh-MO": "前往 GitHub Issues",
+      "en": "Open GitHub Issues",
+      "ja": "GitHub Issuesを開く",
+      "ko": "GitHub Issues 열기"
+    },
+    "support.011_getting-started": {
+      "zh-Hans": "快速上手",
+      "zh-TW": "快速上手",
+      "zh-HK": "快速上手",
+      "zh-MO": "快速上手",
+      "en": "Getting started",
+      "ja": "はじめかた",
+      "ko": "시작하기"
+    },
+    "support.012_what-do-i-do-first": {
+      "zh-Hans": "第一次使用要做什么？",
+      "zh-TW": "第一次使用要做什麼？",
+      "zh-HK": "第一次使用要做什麼？",
+      "zh-MO": "第一次使用要做什麼？",
+      "en": "What do I do first?",
+      "ja": "最初にすることは何ですか？",
+      "ko": "처음 실행하면 무엇을 해야 하나요?"
+    },
+    "support.013_on-first-launch-onboarding-walks-you-throu": {
+      "zh-Hans": "首次打开 App 会进入引导：先创建一个家庭（家庭名称必填），再添加宝宝（称呼 + 出生日期必填，其余信息都可以跳过）。之后到「记录」页即可开始使用 9 类记录。",
+      "zh-TW": "第一次開啟 App 會進入引導：先建立一個家庭（家庭名稱必填），再新增寶寶（稱呼與出生日期必填，其餘資訊都可以跳過）。之後到「記錄」頁就能開始使用 9 類記錄。",
+      "zh-HK": "首次打開 App 會進入引導：先建立一個家庭（家庭名稱必填），再添加寶寶（稱呼、出生日期為必填，其餘資料都可跳過）。其後到「記錄」頁即可開始使用 9 類記錄。",
+      "zh-MO": "首次打開 App 會進入引導：先建立一個家庭（家庭名稱必填），再添加寶寶（稱呼、出生日期為必填，其餘資料都可跳過）。其後到「記錄」頁即可開始使用 9 類記錄。",
+      "en": "On first launch, onboarding walks you through creating a family (name required) and adding a baby (nickname + date of birth required; everything else is optional). Then head to the Records tab to start using all nine record types.",
+      "ja": "初めて起動するとガイドが表示され、家庭の作成（家庭名は必須）から赤ちゃんの追加（呼び名と生年月日は必須、ほかはスキップできます）まで進められます。あとは「記録」タブで9種類の記録が使えます。",
+      "ko": "첫 실행에서는 안내를 따라가면 가족 만들기(가족 이름 필수)와 아기 추가(이름과 출생일 필수, 나머지는 건너뛰기 가능)를 차례로 끝내요. 그다음 기록 탭에서 9가지 기록을 시작하면 돼요."
+    },
+    "support.014_do-i-need-to-sign-up": {
+      "zh-Hans": "需要注册账号吗？",
+      "zh-TW": "需要註冊帳號嗎？",
+      "zh-HK": "需要註冊帳戶嗎？",
+      "zh-MO": "需要註冊帳戶嗎？",
+      "en": "Do I need to sign up?",
+      "ja": "アカウントの登録は必要ですか？",
+      "ko": "계정을 등록해야 하나요?"
+    },
+    "support.015_no-babylog-has-no-account-system-open-and": {
+      "zh-Hans": "不需要。宝宝印记没有账号体系，打开即用。数据保存在本机；购买 Pro 并登录 iCloud 后，可通过 iCloud 加密同步。",
+      "zh-TW": "不需要。寶寶印記沒有帳號系統，開啟即用。資料儲存在本機；購買 Pro 並登入 iCloud 後，可透過 iCloud 加密同步。",
+      "zh-HK": "不需要。寶寶印記沒有帳戶系統，打開即用。資料儲存在本機；購買 Pro 並登入 iCloud 後，可經 iCloud 加密同步。",
+      "zh-MO": "不需要。寶寶印記沒有帳戶系統，打開即用。資料儲存在本機；購買 Pro 並登入 iCloud 後，可經 iCloud 加密同步。",
+      "en": "No. BabyLog has no account system — open and use. Data is stored on your device; with BabyLog Pro and iCloud sign-in, it can sync encrypted through your own iCloud.",
+      "ja": "いいえ。BabyLogにアカウントの仕組みはなく、開けばそのまま使えます。データは端末内に保存され、BabyLog Proを購入してiCloudにサインインすれば、あなたのiCloud経由で暗号化して同期できます。",
+      "ko": "아니요. BabyLog에는 계정 체계가 없어서 켜면 바로 써요. 데이터는 기기에 저장되고, BabyLog Pro를 구입한 뒤 iCloud에 로그인하면 당신의 iCloud로 암호화 동기화할 수 있어요."
+    },
+    "support.016_can-i-use-it-without-icloud": {
+      "zh-Hans": "不登录 iCloud 能用吗？",
+      "zh-TW": "不登入 iCloud 能用嗎？",
+      "zh-HK": "不登入 iCloud 能用嗎？",
+      "zh-MO": "不登入 iCloud 能用嗎？",
+      "en": "Can I use it without iCloud?",
+      "ja": "iCloudなしでも使えますか？",
+      "ko": "iCloud 없이도 사용할 수 있나요?"
+    },
+    "support.017_yes-without-icloud-basic-records-such-as-f": {
+      "zh-Hans": "可以。未登录 iCloud 时，喂养、换尿布等基础记录仍保存在本机；但跨设备同步、家庭共享等 Pro 功能不可用。购买 Pro 并登录 iCloud 后，历史数据会自动同步。",
+      "zh-TW": "可以。未登入 iCloud 時，餵養、換尿布等基本記錄仍儲存在本機；但跨裝置同步、家庭共享等 Pro 功能無法使用。購買 Pro 並登入 iCloud 後，過往記錄會自動同步。",
+      "zh-HK": "可以。未登入 iCloud 時，餵養、換尿片等基本記錄仍儲存在本機；但跨裝置同步、家庭共享等 Pro 功能暫不可用。購買 Pro 並登入 iCloud 後，歷史資料會自動同步。",
+      "zh-MO": "可以。未登入 iCloud 時，餵養、換尿片等基本記錄仍儲存在本機；但跨裝置同步、家庭共享等 Pro 功能暫不可用。購買 Pro 並登入 iCloud 後，歷史資料會自動同步。",
+      "en": "Yes. Without iCloud, basic records such as feeding and diapers stay on your device; Pro features such as cross-device sync and family sharing are unavailable. After purchasing Pro and signing in to iCloud, your history syncs automatically.",
+      "ja": "使えます。iCloudにサインインしていなくても、授乳やおむつ替えなど基本の記録は端末内に残ります。ただし、端末をまたぐ同期や家族共有などProの機能は使えません。Proを購入してiCloudにサインインすると、これまでの記録も自動的に同期されます。",
+      "ko": "네. iCloud에 로그인하지 않아도 수유나 기저귀 같은 기본 기록은 기기에 남아요. 다만 기기 간 동기화, 가족 공유 같은 Pro 기능은 쓸 수 없어요. Pro를 구입하고 iCloud에 로그인하면 지금까지의 기록도 자동으로 동기화돼요."
+    },
+    "support.018_recording": {
+      "zh-Hans": "记录相关",
+      "zh-TW": "記錄相關",
+      "zh-HK": "記錄相關",
+      "zh-MO": "記錄相關",
+      "en": "Recording",
+      "ja": "記録について",
+      "ko": "기록하기"
+    },
+    "support.019_what-can-i-record": {
+      "zh-Hans": "可以记录哪些内容？",
+      "zh-TW": "可以記錄哪些內容？",
+      "zh-HK": "可以記錄哪些內容？",
+      "zh-MO": "可以記錄哪些內容？",
+      "en": "What can I record?",
+      "ja": "どんな記録ができますか？",
+      "ko": "무엇을 기록할 수 있나요?"
+    },
+    "support.020_nine-types-in-three-groups-feeding-nursing": {
+      "zh-Hans": "3 组 9 类：喂养（母乳、配方奶、辅食、饮水）、日常护理（换尿布、睡眠）、健康与成长（身高体重、体温、用药）。每个宝宝独立建档、独立记录。",
+      "zh-TW": "3 組 9 類：餵養（母乳、配方奶、副食品、飲水）、日常照護（換尿布、睡眠）、健康與成長（身高體重、體溫、用藥）。每個寶寶獨立建檔、獨立記錄。",
+      "zh-HK": "3 組 9 類：餵養（母乳、配方奶粉、輔食、飲水）、日常照顧（換尿片、睡眠）、健康與成長（身高體重、體溫、用藥）。每個寶寶獨立建檔、獨立記錄。",
+      "zh-MO": "3 組 9 類：餵養（母乳、配方奶粉、輔食、飲水）、日常照顧（換尿片、睡眠）、健康與成長（身高體重、體溫、用藥）。每個寶寶獨立建檔、獨立記錄。",
+      "en": "Nine types in three groups: Feeding (nursing, formula, solid food, water), Daily care (diaper, sleep), and Health & growth (height & weight, temperature, medication). Each baby has an independent profile.",
+      "ja": "3グループ9種類です。授乳・食事（母乳・ミルク・離乳食・水分）、日常ケア（おむつ替え・睡眠）、健康と成長（身長・体重・体温・服薬）。赤ちゃんは一人ずつ個別にプロフィールを作り、記録も分かれます。",
+      "ko": "3그룹 9종류예요. 수유·식사(모유, 분유, 이유식, 수분), 일상 돌봄(기저귀, 수면), 건강과 성장(키·몸무게, 체온, 약 복용). 아기는 각자 프로필을 따로 만들어 기록해요."
+    },
+    "support.021_i-forgot-to-log-something-now-what": {
+      "zh-Hans": "忘记记录了怎么办？",
+      "zh-TW": "忘記記錄了怎麼辦？",
+      "zh-HK": "忘記記錄了怎麼辦？",
+      "zh-MO": "忘記記錄了怎麼辦？",
+      "en": "I forgot to log something — now what?",
+      "ja": "記録し忘れたときは、どうすればいいですか？",
+      "ko": "기록을 잊어버렸는데 어떻게 하나요?"
+    },
+    "support.022_every-record-type-supports-backfilling-pic": {
+      "zh-Hans": "所有类型都支持补记：在记录页选择类型后，可以修改发生时间。睡眠还支持对历史时段的补记。",
+      "zh-TW": "所有類型都支援補記：在記錄頁選好類型後，可以修改發生的時間；睡眠也能補記過往時段。",
+      "zh-HK": "所有類型都支援補記：在記錄頁選擇類型後，可修改發生的時間。睡眠亦支援補記過往時段。",
+      "zh-MO": "所有類型都支援補記：在記錄頁選擇類型後，可修改發生的時間。睡眠亦支援補記過往時段。",
+      "en": "Every record type supports backfilling — pick the type and adjust the time. Sleep can also be backfilled for past periods.",
+      "ja": "すべての記録タイプが、あとからの追加に対応しています。記録ページでタイプを選び、発生した時刻を直せます。睡眠なら、過去の時間帯もあとから記録できます。",
+      "ko": "모든 종류가 추가 기록을 지원해요. 기록 화면에서 종류를 고른 뒤 일어난 시각을 바꾸면 돼요. 수면은 지난 시간대도 나중에 채울 수 있어요."
+    },
+    "support.023_can-i-fix-or-delete-a-record": {
+      "zh-Hans": "记错了能修改或删除吗？",
+      "zh-TW": "記錯了能修改或刪除嗎？",
+      "zh-HK": "記錯了能修改或刪除嗎？",
+      "zh-MO": "記錯了能修改或刪除嗎？",
+      "en": "Can I fix or delete a record?",
+      "ja": "書き間違えた記録は、修正・削除できますか？",
+      "ko": "잘못 기록한 것을 수정하거나 삭제할 수 있나요?"
+    },
+    "support.024_yes-edit-or-delete-any-single-entry-from-i": {
+      "zh-Hans": "可以。在对应记录的详情或历史列表中即可编辑或删除单条记录。",
+      "zh-TW": "可以。在該筆記錄的詳情或歷史清單中，就能修改或刪除單筆記錄。",
+      "zh-HK": "可以。在對應記錄的詳情或歷史清單中，即可編輯或刪除單條記錄。",
+      "zh-MO": "可以。在對應記錄的詳情或歷史清單中，即可編輯或刪除單條記錄。",
+      "en": "Yes — edit or delete any single entry from its detail view or history list.",
+      "ja": "できます。その記録の詳細画面、または過去の一覧から、1件ずつ編集・削除が可能です。",
+      "ko": "네. 그 기록의 상세 화면이나 목록에서 하나씩 수정하거나 삭제할 수 있어요."
+    },
+    "support.025_why-doesn-t-the-app-flag-fevers": {
+      "zh-Hans": "为什么体温不标红、不提示发烧？",
+      "zh-TW": "為什麼體溫不標紅、不提示發燒？",
+      "zh-HK": "為什麼體溫不標紅、不提示發燒？",
+      "zh-MO": "為什麼體溫不標紅、不提示發燒？",
+      "en": "Why doesn't the app flag fevers?",
+      "ja": "体温を赤くしたり、発熱をお知らせしたりしないのはなぜですか？",
+      "ko": "체온은 왜 빨갛게 표시하지 않고 발열도 알려 주지 않나요?"
+    },
+    "support.026_intentionally-babylog-is-a-logging-tool-no": {
+      "zh-Hans": "这是刻意的设计：宝宝印记是记录工具，不是医疗工具。体温只客观记录，不做判断、不标红；身高体重不计算 BMI 或百分位；用药只记录、不提醒也不建议剂量。涉及健康判断，请咨询医生或其他专业人士。",
+      "zh-TW": "這是刻意的設計：寶寶印記是記錄工具，不是醫療工具。體溫只如實記錄，不做判斷、不標紅；身高體重不計算 BMI 或百分位；用藥只記錄，不提醒也不建議劑量。涉及健康判斷，請諮詢醫師或其他專業人員。",
+      "zh-HK": "這是刻意的設計：寶寶印記是記錄工具，不是醫療工具。體溫只如實記錄，不做判斷、不標紅；身高體重不計算 BMI 或百分位；用藥只記錄，不提醒亦不建議劑量。涉及健康判斷，請諮詢醫生或其他專業人士。",
+      "zh-MO": "這是刻意的設計：寶寶印記是記錄工具，不是醫療工具。體溫只如實記錄，不做判斷、不標紅；身高體重不計算 BMI 或百分位；用藥只記錄，不提醒亦不建議劑量。涉及健康判斷，請諮詢醫生或其他專業人士。",
+      "en": "Intentionally: BabyLog is a logging tool, not a medical one. Temperatures are logged as-is with no thresholds or flagging, no BMI or growth percentiles, and medication is logged without reminders or dosage advice. For health judgments, always consult a doctor or other professional.",
+      "ja": "意図した設計です。BabyLogは記録のツールであって、医療のツールではありません。体温はしきい値を設けずそのまま記録するだけで、赤い表示も判定もありません。身長・体重からBMIや成長のパーセンタイルは算出しません。服薬は記録のみで、お知らせも用量のご提案もいたしません。健康についての判断は、必ず医師などの専門家にご相談ください。",
+      "ko": "의도한 설계예요. BabyLog는 기록 도구이지 의료 도구가 아니에요. 체온은 있는 그대로만 남기고 판단이나 색 표시를 하지 않으며, 키·몸무게로 BMI나 백분위를 계산하지 않고, 약 복용은 기록만 하고 알림이나 용량 조언을 하지 않아요. 건강에 대한 판단은 반드시 의사나 다른 전문가와 상담해 주세요."
+    },
+    "support.027_family-sharing": {
+      "zh-Hans": "家庭共享",
+      "zh-TW": "家庭共享",
+      "zh-HK": "家庭共享",
+      "zh-MO": "家庭共享",
+      "en": "Family sharing",
+      "ja": "家族共有",
+      "ko": "가족 공유"
+    },
+    "support.028_how-do-i-invite-family-members": {
+      "zh-Hans": "怎么邀请家人？",
+      "zh-TW": "怎麼邀請家人？",
+      "zh-HK": "怎麼邀請家人？",
+      "zh-MO": "怎麼邀請家人？",
+      "en": "How do I invite family members?",
+      "ja": "家族を招待するにはどうすればいいですか？",
+      "ko": "가족은 어떻게 초대하나요?"
+    },
+    "support.029_start-an-invitation-from-my-family-members": {
+      "zh-Hans": "在「我的 → 家庭成员」中发起邀请，通过 iCloud 共享发送。对方在自己的设备上登录同一 iCloud 账号体系并接受邀请后即可加入。邀请和加入需要两台设备、两个不同的 Apple ID。",
+      "zh-TW": "到「我的 → 家庭成員」發起邀請，透過 iCloud 共享傳送。對方在自己的裝置上登入同一個 iCloud 帳號並接受邀請後即可加入。邀請與加入需要兩部裝置、兩個不同的 Apple ID。",
+      "zh-HK": "在「我的 → 家庭成員」發起邀請，經 iCloud 共享發送。對方在自己的裝置上登入同一 iCloud 帳戶並接受邀請後即可加入。邀請和加入需要兩部裝置、兩個不同的 Apple ID。",
+      "zh-MO": "在「我的 → 家庭成員」發起邀請，經 iCloud 共享發送。對方在自己的裝置上登入同一 iCloud 帳戶並接受邀請後即可加入。邀請和加入需要兩部裝置、兩個不同的 Apple ID。",
+      "en": "Start an invitation from My → Family members; it's delivered via iCloud sharing. The invitee accepts on their own device with their own Apple ID. Testing invitations requires two devices with two different Apple IDs.",
+      "ja": "「マイページ」→「家族メンバー」から招待を始めると、iCloud共有で届きます。招待された方は、ご自身の端末でApple IDにサインインして招待を受け入れると参加できます。確認するには、異なるApple IDを登録した2台の端末が必要です。",
+      "ko": "내 정보 → 가족 구성원에서 초대를 시작하면 iCloud 공유로 전달돼요. 초대받은 사람이 자기 기기에서 자기 Apple ID로 수락하면 가족에 참여할 수 있어요. 실제로 확인하려면 서로 다른 Apple ID로 두 대의 기기가 필요해요."
+    },
+    "support.030_what-s-the-difference-between-roles": {
+      "zh-Hans": "三种角色有什么区别？",
+      "zh-TW": "三種角色有什麼不同？",
+      "zh-HK": "三種角色有甚麼分別？",
+      "zh-MO": "三種角色有甚麼分別？",
+      "en": "What's the difference between roles?",
+      "ja": "3つの役割は、どこが違うのですか？",
+      "ko": "세 역할은 무엇이 다른가요?"
+    },
+    "support.031_creator": {
+      "zh-Hans": "创建者",
+      "zh-TW": "家庭管理員",
+      "zh-HK": "家庭管理員",
+      "zh-MO": "家庭管理員",
+      "en": "creator",
+      "ja": "オーナー",
+      "ko": "소유자"
+    },
+    "support.032_manages-the-family-and-members": {
+      "zh-Hans": "管理家庭与成员；",
+      "zh-TW": "管理家庭與成員；",
+      "zh-HK": "管理家庭與成員；",
+      "zh-MO": "管理家庭與成員；",
+      "en": "manages the family and members; ",
+      "ja": "家族とメンバーを管理します。",
+      "ko": "가족과 구성원을 관리하고, "
+    },
+    "support.033_editor": {
+      "zh-Hans": "编辑者",
+      "zh-TW": "編輯成員",
+      "zh-HK": "編輯成員",
+      "zh-MO": "編輯成員",
+      "en": "editor",
+      "ja": "編集メンバー",
+      "ko": "편집자"
+    },
+    "support.034_can-record-and-edit": {
+      "zh-Hans": "可以记录和修改；",
+      "zh-TW": "可以記錄與修改；",
+      "zh-HK": "可以記錄與修改；",
+      "zh-MO": "可以記錄與修改；",
+      "en": "can record and edit; ",
+      "ja": "記録と編集ができます。",
+      "ko": "기록하고 수정할 수 있고, "
+    },
+    "support.035_viewer": {
+      "zh-Hans": "查看者",
+      "zh-TW": "唯讀成員",
+      "zh-HK": "唯讀成員",
+      "zh-MO": "唯讀成員",
+      "en": "viewer",
+      "ja": "閲覧メンバー",
+      "ko": "뷰어"
+    },
+    "support.036_can-only-view-great-for-grandparents": {
+      "zh-Hans": "只能查看，适合老人或不操作记录的家人。",
+      "zh-TW": "只能查看，適合長輩或不打算操作記錄的家人。",
+      "zh-HK": "只供查看，適合長者或不慣用記錄功能的家人。",
+      "zh-MO": "只供查看，適合長者或不慣用記錄功能的家人。",
+      "en": "can only view — great for grandparents.",
+      "ja": "閲覧のみ。祖父母の方におすすめです。",
+      "ko": "보기만 할 수 있어요. 기록을 직접 넣지 않는 할머니·할아버지에게 잘 맞아요."
+    },
+    "support.037_can-i-delete-a-baby-profile": {
+      "zh-Hans": "宝宝档案可以删除吗？",
+      "zh-TW": "寶寶檔案可以刪除嗎？",
+      "zh-HK": "寶寶檔案可以刪除嗎？",
+      "zh-MO": "寶寶檔案可以刪除嗎？",
+      "en": "Can I delete a baby profile?",
+      "ja": "赤ちゃんプロフィールを削除できますか？",
+      "ko": "아기 프로필을 삭제할 수 있나요?"
+    },
+    "support.038_profiles-can-be-archived-but-never-permane": {
+      "zh-Hans": "宝宝档案只可归档、不可永久删除——这是为了保留完整的成长档案。归档后不再出现在日常切换中，历史数据依然保留。",
+      "zh-TW": "寶寶檔案只能歸檔、不能永久刪除——這是為了保留完整的成長記錄。歸檔後不會再出現在日常切換裡，過往資料仍然保留。",
+      "zh-HK": "寶寶檔案只可歸檔、不可永久刪除——這是為了保留完整的成長檔案。歸檔後不會再出現在日常切換中，歷史資料依然保留。",
+      "zh-MO": "寶寶檔案只可歸檔、不可永久刪除——這是為了保留完整的成長檔案。歸檔後不會再出現在日常切換中，歷史資料依然保留。",
+      "en": "Profiles can be archived but never permanently deleted — this keeps the growth record complete. Archived babies disappear from daily switching while their history remains.",
+      "ja": "永久削除はできず、アーカイブのみになります。成長の記録を途切れなく残すためです。アーカイブすると日々の切り替えからは見えなくなりますが、これまでのデータは残ります。",
+      "ko": "아기 프로필은 보관할 수 있지만 완전히 삭제되지는 않아요. 성장 기록을 온전히 남기기 위한 선택이에요. 보관하면 프로필을 고르는 목록에서는 사라지지만 지금까지의 기록은 그대로 남아요."
+    },
+    "support.039_home-screen-widgets": {
+      "zh-Hans": "桌面小组件",
+      "zh-TW": "主畫面小組件",
+      "zh-HK": "桌面小組件",
+      "zh-MO": "桌面小組件",
+      "en": "Home Screen widgets",
+      "ja": "ホーム画面のウィジェット",
+      "ko": "바탕화면 위젯"
+    },
+    "support.040_how-do-i-add-a-widget": {
+      "zh-Hans": "怎么添加小组件？",
+      "zh-TW": "怎麼新增小組件？",
+      "zh-HK": "怎麼添加小組件？",
+      "zh-MO": "怎麼添加小組件？",
+      "en": "How do I add a widget?",
+      "ja": "ウィジェットを追加するには？",
+      "ko": "위젯은 어떻게 추가하나요?"
+    },
+    "support.041_long-press-the-home-screen-tap-search-for": {
+      "zh-Hans": "在桌面长按空白处 → 点左上角「+」→ 搜索「宝宝印记」，有三款可选：首页概览、睡眠计时、快速记录。",
+      "zh-TW": "在主畫面長按空白處 → 點左上角「+」→ 搜尋「寶寶印記」，有三款可選：首頁概覽、睡眠計時、快速記錄。",
+      "zh-HK": "在桌面長按空白位 → 按左上角的「+」→ 搜尋「寶寶印記」，有三款可選：首頁概覽、睡眠計時、快速記錄。",
+      "zh-MO": "在桌面長按空白位 → 按左上角的「+」→ 搜尋「寶寶印記」，有三款可選：首頁概覽、睡眠計時、快速記錄。",
+      "en": "Long-press the Home Screen → tap “+” → search for BabyLog. Three widgets are available: Daily Overview, Sleep Timer and Quick Record.",
+      "ja": "ホーム画面を長押しし、左上の「＋」をタップして「BabyLog」と検索してください。今日の概要、睡眠タイマー、クイック記録の3種類があります。",
+      "ko": "바탕화면 빈 곳을 길게 누르기 → 왼쪽 위 ‘+’ 누르기 → ‘BabyLog’ 검색. 세 종류가 있어요: 오늘 현황, 수면 타이머, 빠른 기록."
+    },
+    "support.042_why-is-my-widget-empty": {
+      "zh-Hans": "小组件里没有数据？",
+      "zh-TW": "小組件裡沒有資料？",
+      "zh-HK": "小組件沒有顯示資料？",
+      "zh-MO": "小組件沒有顯示資料？",
+      "en": "Why is my widget empty?",
+      "ja": "ウィジェットに何も表示されません",
+      "ko": "위젯에 데이터가 없어요"
+    },
+    "support.043_widget-data-comes-from-records-that-exist": {
+      "zh-Hans": "小组件展示的数据来自 App 内已有的记录。刚装好还没有记录时会显示空状态，先在 App 里记几条即可。部分更新会稍有延迟，可打开 App 刷新。",
+      "zh-TW": "小組件顯示的資料來自 App 內已有的記錄。剛裝好還沒有記錄時會顯示空狀態，先在 App 裡記幾筆即可。部分更新會有一點延遲，打開 App 就能重新整理。",
+      "zh-HK": "小組件顯示的資料來自 App 內現有的記錄。剛安裝而未記錄時會顯示空白狀態，先在 App 裡記錄幾條即可。部分更新會稍有延遲，可打開 App 重新整理。",
+      "zh-MO": "小組件顯示的資料來自 App 內現有的記錄。剛安裝而未記錄時會顯示空白狀態，先在 App 裡記錄幾條即可。部分更新會稍有延遲，可打開 App 重新整理。",
+      "en": "Widget data comes from records that exist in the app. A fresh install shows an empty state — log a few entries first. Updates can lag slightly; opening the app refreshes them.",
+      "ja": "ウィジェットには、アプリ内にある記録が表示されます。インストール直後は記録がないため空の状態になります。まずアプリで数件記録してください。反映に少し時間となることがありますが、アプリを開くと更新されます。",
+      "ko": "위젯은 앱에 이미 있는 기록을 보여요. 막 설치한 뒤에는 기록이 없어 빈 상태로 보이고, 앱에서 몇 개 남기면 채워져요. 갱신이 조금 늦을 수 있는데, 앱을 열면 바로 새로고침돼요."
+    },
+    "support.044_data-backup": {
+      "zh-Hans": "数据与备份",
+      "zh-TW": "資料與備份",
+      "zh-HK": "資料與備份",
+      "zh-MO": "資料與備份",
+      "en": "Data & backup",
+      "ja": "データとバックアップ",
+      "ko": "데이터와 백업"
+    },
+    "support.045_how-do-i-back-up-my-data": {
+      "zh-Hans": "怎么备份数据？",
+      "zh-TW": "怎麼備份資料？",
+      "zh-HK": "怎麼備份資料？",
+      "zh-MO": "怎麼備份資料？",
+      "en": "How do I back up my data?",
+      "ja": "データはどのようにバックアップしますか？",
+      "ko": "데이터는 어떻게 백업하나요?"
+    },
+    "support.046_two-ways-with-pro-and-icloud-data-syncs-wi": {
+      "zh-Hans": "两种方式：① 购买 Pro 并登录 iCloud 后，数据自动经 iCloud 加密同步；② 在「我的 → 导出与备份」中导出 ZIP 备份文件（Pro）。",
+      "zh-TW": "兩種方式：① 購買 Pro 並登入 iCloud 後，資料會自動透過 iCloud 加密同步；② 到「我的 → 匯出與備份」匯出 ZIP 備份檔（Pro）。",
+      "zh-HK": "兩種方式：① 購買 Pro 並登入 iCloud 後，資料會自動經 iCloud 加密同步；② 在「我的 → 匯出與備份」匯出 ZIP 備份檔案（Pro）。",
+      "zh-MO": "兩種方式：① 購買 Pro 並登入 iCloud 後，資料會自動經 iCloud 加密同步；② 在「我的 → 匯出與備份」匯出 ZIP 備份檔案（Pro）。",
+      "en": "Two ways: ① with Pro and iCloud, data syncs with encrypted iCloud automatically; ② export a ZIP backup from My → Export & backup (Pro).",
+      "ja": "方法は2つです。① Proを購入してiCloudにサインインすると、データは暗号化されて自動的にiCloudへ同期されます。②「マイページ」→「エクスポートとバックアップ」でZIPを書き出せます（Pro）。",
+      "ko": "두 가지 방법이 있어요. ① Pro를 구입하고 iCloud에 로그인하면 암호화된 iCloud 동기화가 자동으로 진행돼요. ② 내 정보 → 내보내기 및 백업에서 ZIP 백업 파일을 내보낼 수 있어요(Pro)."
+    },
+    "support.047_how-do-i-move-data-to-a-new-phone": {
+      "zh-Hans": "换新手机了，数据怎么迁移？",
+      "zh-TW": "換新手機了，資料怎麼轉移？",
+      "zh-HK": "換新手機了，資料怎麼轉移？",
+      "zh-MO": "換新手機了，資料怎麼轉移？",
+      "en": "How do I move data to a new phone?",
+      "ja": "新しいiPhoneに変えたら、データを移せますか？",
+      "ko": "새 폰으로 바꾸면 데이터를 어떻게 옮기나요?"
+    },
+    "support.048_with-pro-sign-in-to-the-same-icloud-accoun": {
+      "zh-Hans": "购买 Pro 后，在新手机上登录同一 iCloud 账号并打开宝宝印记，数据会自动同步下来。也可以先在旧手机导出 ZIP 备份，再在新手机导入（Pro）。",
+      "zh-TW": "購買 Pro 後，在新手機上登入同一個 iCloud 帳號並開啟寶寶印記，資料會自動同步下來。也可以先在舊手機匯出 ZIP 備份，再到新手機匯入（Pro）。",
+      "zh-HK": "購買 Pro 後，在新手機登入同一 iCloud 帳戶並打開寶寶印記，資料會自動同步回來。也可先在舊手機匯出 ZIP 備份，再在新手機匯入（Pro）。",
+      "zh-MO": "購買 Pro 後，在新手機登入同一 iCloud 帳戶並打開寶寶印記，資料會自動同步回來。也可先在舊手機匯出 ZIP 備份，再在新手機匯入（Pro）。",
+      "en": "With Pro, sign in to the same iCloud account on the new phone and open BabyLog — data syncs down automatically. You can also export a ZIP from the old phone and import it on the new one (Pro).",
+      "ja": "Proなら、新しい端末で同じiCloudアカウントにサインインしてBabyLogを開くだけで、データが自動的に同期されます。古い端末でZIPを書き出して、新しい端末で読み込む方法もあります（Pro）。",
+      "ko": "Pro를 쓴다면 새 기기에 같은 iCloud 계정으로 로그인하고 BabyLog를 열면 기록이 자동으로 내려와요. 기존 기기에서 ZIP 백업을 내보내 새 기기에서 가져오는 방법도 있어요(Pro)."
+    },
+    "support.049_can-the-developers-see-my-data": {
+      "zh-Hans": "开发者能看到我的数据吗？",
+      "zh-TW": "開發者能看到我的資料嗎？",
+      "zh-HK": "開發者能看到我的資料嗎？",
+      "zh-MO": "開發者能看到我的資料嗎？",
+      "en": "Can the developers see my data?",
+      "ja": "開発者に私のデータが見えることはありますか？",
+      "ko": "개발자가 제 데이터를 볼 수 있나요?"
+    },
+    "support.050_no-data-lives-only-on-your-device-and-in-y": {
+      "zh-Hans": "看不到。数据只保存在你的设备和你的 iCloud 私有空间中，宝宝印记没有自建服务器，开发团队无法读取你的任何记录。",
+      "zh-TW": "看不到。資料只儲存在你的裝置和你的 iCloud 私人空間，寶寶印記沒有自建伺服器，開發團隊無法讀取你的任何記錄。",
+      "zh-HK": "看不到。資料只存放在你的裝置和你的 iCloud 私人空間，寶寶印記沒有自建伺服器，開發團隊無法讀取你的任何記錄。",
+      "zh-MO": "看不到。資料只存放在你的裝置和你的 iCloud 私人空間，寶寶印記沒有自建伺服器，開發團隊無法讀取你的任何記錄。",
+      "en": "No. Data lives only on your device and in your private iCloud space. BabyLog has no servers of its own, so the development team cannot read any of your records.",
+      "ja": "ありません。データはあなたの端末と、あなただけのiCloud領域にしか存在しません。BabyLogには自社サーバーがないため、開発チームが記録を読むことはできません。",
+      "ko": "볼 수 없어요. 데이터는 당신의 기기와 당신의 전용 iCloud 공간에만 있고, BabyLog는 자체 서버를 두지 않으니 개발 팀은 어떤 기록도 읽을 수 없어요."
+    },
+    "support.051_don-t-have-babylog-yet": {
+      "zh-Hans": "还没下载宝宝印记？",
+      "zh-TW": "還沒下載寶寶印記？",
+      "zh-HK": "還沒下載寶寶印記？",
+      "zh-MO": "還沒下載寶寶印記？",
+      "en": "Don't have BabyLog yet?",
+      "ja": "まだBabyLogをお使いでありませんか？",
+      "ko": "아직 BabyLog를 설치하지 않았나요?"
+    },
+    "support.052_download-on-the-app-store": {
+      "zh-Hans": "App Store 下载",
+      "zh-TW": "App Store 下載",
+      "zh-HK": "App Store 下載",
+      "zh-MO": "App Store 下載",
+      "en": "Download on the App Store",
+      "ja": "App Storeでダウンロード",
+      "ko": "App Store에서 다운로드"
+    },
+    "support.053_babylog": {
+      "zh-Hans": "宝宝印记 BabyLog",
+      "zh-TW": "寶寶印記 BabyLog",
+      "zh-HK": "寶寶印記 BabyLog",
+      "zh-MO": "寶寶印記 BabyLog",
+      "en": "BabyLog",
+      "ja": "BabyLog",
+      "ko": "BabyLog"
+    },
+    "support.055_privacy-policy": {
+      "zh-Hans": "隐私政策",
+      "zh-TW": "隱私權政策",
+      "zh-HK": "私隱政策",
+      "zh-MO": "私隱政策",
+      "en": "Privacy Policy",
+      "ja": "プライバシーポリシー",
+      "ko": "개인정보 처리방침"
+    },
+    "support.056_feedback": {
+      "zh-Hans": "问题反馈",
+      "zh-TW": "問題回饋",
+      "zh-HK": "意見回饋",
+      "zh-MO": "意見回饋",
+      "en": "Feedback",
+      "ja": "フィードバック",
+      "ko": "피드백"
+    },
+    "privacy.001_babylog": {
+      "zh-Hans": "宝宝印记",
+      "zh-TW": "寶寶印記",
+      "zh-HK": "寶寶印記",
+      "zh-MO": "寶寶印記",
+      "en": "BabyLog",
+      "ja": "BabyLog",
+      "ko": "BabyLog"
+    },
+    "privacy.002_home": {
+      "zh-Hans": "首页",
+      "zh-TW": "首頁",
+      "zh-HK": "首頁",
+      "zh-MO": "首頁",
+      "en": "Home",
+      "ja": "ホーム",
+      "ko": "홈"
+    },
+    "privacy.003_support": {
+      "zh-Hans": "技术支持",
+      "zh-TW": "技術支援",
+      "zh-HK": "技術支援",
+      "zh-MO": "技術支援",
+      "en": "Support",
+      "ja": "サポート",
+      "ko": "고객 지원"
+    },
+    "privacy.004_privacy": {
+      "zh-Hans": "隐私政策",
+      "zh-TW": "隱私權政策",
+      "zh-HK": "私隱政策",
+      "zh-MO": "私隱政策",
+      "en": "Privacy",
+      "ja": "プライバシー",
+      "ko": "개인정보 보호"
+    },
+    "privacy.005_privacy-policy": {
+      "zh-Hans": "隐私政策",
+      "zh-TW": "隱私權政策",
+      "zh-HK": "私隱政策",
+      "zh-MO": "私隱政策",
+      "en": "Privacy Policy",
+      "ja": "プライバシーポリシー",
+      "ko": "개인정보 처리방침"
+    },
+    "privacy.006_with-babylog-you-stay-in-complete-control": {
+      "zh-Hans": "宝宝印记（BabyLog）由你完全掌控自己的数据。我们尽最大可能少碰你的数据——事实上，我们不收集任何数据。",
+      "zh-TW": "寶寶印記（BabyLog）讓你的資料完全由你掌控。我們盡可能不碰你的資料——事實上，我們不收集任何資料。",
+      "zh-HK": "寶寶印記（BabyLog）的資料完全由你掌控。我們盡最大可能不接觸你的資料——事實上，我們不收集任何資料。",
+      "zh-MO": "寶寶印記（BabyLog）的資料完全由你掌控。我們盡最大可能不接觸你的資料——事實上，我們不收集任何資料。",
+      "en": "With BabyLog, you stay in complete control of your data. We touch it as little as possible — in fact, we collect nothing at all.",
+      "ja": "BabyLogでは、あなたのデータをあなた自身が完全に管理します。私たちはデータにできるだけ触れません。実際、何も収集していません。",
+      "ko": "BabyLog에서 당신의 데이터는 처음부터 끝까지 당신의 몫이에요. 우리는 가능한 한 데이터에 손을 대지 않아요 — 사실 수집하는 것 자체가 없어요."
+    },
+    "privacy.007_effective-date-november-25-2026-applies-to": {
+      "zh-Hans": "生效日期：2026 年 11 月 25 日 · 适用版本：1.1 及以上",
+      "zh-TW": "生效日期：2026 年 11 月 25 日 · 適用版本：1.1 及以上",
+      "zh-HK": "生效日期：2026 年 11 月 25 日 · 適用版本：1.1 及以上",
+      "zh-MO": "生效日期：2026 年 11 月 25 日 · 適用版本：1.1 及以上",
+      "en": "Effective date: November 25, 2026 · Applies to version 1.1 and later",
+      "ja": "施行日：2026年11月25日 · 適用バージョン：1.1以降",
+      "ko": "시행일: 2026년 11월 25일 · 적용 버전: 1.1 이상"
+    },
+    "privacy.008_1-we-collect-no-data": {
+      "zh-Hans": "一、我们不收集数据",
+      "zh-TW": "一、我們不收集資料",
+      "zh-HK": "一、我們不收集資料",
+      "zh-MO": "一、我們不收集資料",
+      "en": "1. We collect no data",
+      "ja": "1. 私たちはデータを収集しません",
+      "ko": "1. 데이터를 수집하지 않아요"
+    },
+    "privacy.009_babylog-has-no-account-system-no-servers-o": {
+      "zh-Hans": "宝宝印记没有账号体系、没有自建服务器、不接入第三方分析或统计 SDK、不接入 HealthKit、不包含广告。我们不会收集、传输或出售以下任何信息：",
+      "zh-TW": "寶寶印記沒有帳號系統、沒有自建伺服器、不串接第三方分析或統計 SDK、不接入 HealthKit、不含廣告。我們不會收集、傳輸或出售以下任何資訊：",
+      "zh-HK": "寶寶印記沒有帳戶系統、沒有自建伺服器、不接入第三方分析或統計 SDK、不接入 HealthKit、不含廣告。我們不會收集、傳輸或出售以下任何資料：",
+      "zh-MO": "寶寶印記沒有帳戶系統、沒有自建伺服器、不接入第三方分析或統計 SDK、不接入 HealthKit、不含廣告。我們不會收集、傳輸或出售以下任何資料：",
+      "en": "BabyLog has no account system, no servers of our own, no third-party analytics or statistics SDKs, no HealthKit integration, and no ads. We do not collect, transmit, or sell any of the following:",
+      "ja": "BabyLogにはアカウントの仕組みも、自社サーバーも、第三者の解析・統計SDKも、HealthKitとの連携も、広告もありません。次のような情報を収集・送信・販売することは一切ありません。",
+      "ko": "BabyLog에는 계정 체계도, 우리가 운영하는 서버도 없어요. 서드파티 분석·통계 SDK를 쓰지 않고 HealthKit에도 연결하지 않으며 광고도 없어요. 우리는 다음 정보를 수집하지도 전송하지도 판매하지도 않아요:"
+    },
+    "privacy.010_identity-or-contact-info-name-email-phone": {
+      "zh-Hans": "身份与联系信息（姓名、邮箱、电话等）",
+      "zh-TW": "身分與聯絡資訊（姓名、電子郵件、電話等）",
+      "zh-HK": "身份與聯絡資料（姓名、電郵、電話等）",
+      "zh-MO": "身份與聯絡資料（姓名、電郵、電話等）",
+      "en": "Identity or contact info (name, email, phone, etc.)",
+      "ja": "身分・連絡先情報（氏名、メールアドレス、電話番号など）",
+      "ko": "신원·연락 정보(이름, 이메일, 전화번호 등)"
+    },
+    "privacy.011_device-identifiers-idfa-idfv-or-any-user-i": {
+      "zh-Hans": "设备标识符（IDFA / IDFV）或任何用户 ID",
+      "zh-TW": "裝置識別碼（IDFA / IDFV）或任何使用者 ID",
+      "zh-HK": "裝置識別碼（IDFA / IDFV）或任何用戶 ID",
+      "zh-MO": "裝置識別碼（IDFA / IDFV）或任何用戶 ID",
+      "en": "Device identifiers (IDFA / IDFV) or any user IDs",
+      "ja": "端末識別子（IDFA / IDFV）や、あらゆるユーザーID",
+      "ko": "기기 식별자(IDFA / IDFV)나 그 어떤 사용자 ID"
+    },
+    "privacy.012_usage-data-taps-views-crash-statistics": {
+      "zh-Hans": "使用行为数据（点击、浏览、崩溃统计）",
+      "zh-TW": "使用行為資料（點擊、瀏覽、當機統計）",
+      "zh-HK": "使用行為資料（點按、瀏覽、當機統計）",
+      "zh-MO": "使用行為資料（點按、瀏覽、當機統計）",
+      "en": "Usage data (taps, views, crash statistics)",
+      "ja": "利用状況のデータ（タップ、閲覧、クラッシュ統計）",
+      "ko": "사용 행위 데이터(탭, 열람, 크래시 통계)"
+    },
+    "privacy.013_anything-you-record-feeding-sleep-diapers": {
+      "zh-Hans": "你记录的任何内容：喂养、睡眠、尿布、体温、用药、身高体重、照片、里程碑",
+      "zh-TW": "你記錄的任何內容：餵養、睡眠、尿布、體溫、用藥、身高體重、照片、里程碑",
+      "zh-HK": "你記錄的任何內容：餵養、睡眠、尿片、體溫、用藥、身高體重、照片、里程碑",
+      "zh-MO": "你記錄的任何內容：餵養、睡眠、尿片、體溫、用藥、身高體重、照片、里程碑",
+      "en": "Anything you record: feeding, sleep, diapers, temperature, medication, measurements, photos, milestones",
+      "ja": "あなたが記録した内容すべて：授乳・食事、睡眠、おむつ、体温、服薬、身長・体重、写真、マイルストーン",
+      "ko": "당신이 기록하는 모든 것: 수유, 수면, 기저귀, 체온, 약 복용, 키·몸무게, 사진, 마일스톤"
+    },
+    "privacy.014_in-the-app-store-s-app-privacy-label-this": {
+      "zh-Hans": "在 App Store 的「App 隐私」标签中，本 App 声明为「未从该 App 收集数据」。",
+      "zh-TW": "在 App Store 的「App 隱私」標籤中，本 App 聲明為「不會從本 App 收集任何資料」。",
+      "zh-HK": "在 App Store 的「App 私隱」標籤中，本 App 申報為「不會從本 App 收集任何資料」。",
+      "zh-MO": "在 App Store 的「App 私隱」標籤中，本 App 申報為「不會從本 App 收集任何資料」。",
+      "en": "In the App Store's App Privacy label, this app is declared as “Data Not Collected.”",
+      "ja": "App Storeの「Appのプライバシー」では、このAppは「データは収集されません」と表示されています。",
+      "ko": "App Store의 ‘앱 개인정보’ 라벨에서 이 앱은 ‘데이터 미수집’으로 신고되어 있어요."
+    },
+    "privacy.015_2-where-your-data-lives": {
+      "zh-Hans": "二、数据存在哪里",
+      "zh-TW": "二、資料存在哪裡",
+      "zh-HK": "二、資料存在哪裡",
+      "zh-MO": "二、資料存在哪裡",
+      "en": "2. Where your data lives",
+      "ja": "2. データはどこに保存されるのか",
+      "ko": "2. 데이터가 머무는 곳"
+    },
+    "privacy.016_on-device-storage": {
+      "zh-Hans": "本机存储：",
+      "zh-TW": "本機儲存：",
+      "zh-HK": "本機儲存：",
+      "zh-MO": "本機儲存：",
+      "en": "On-device storage: ",
+      "ja": "端末内保存：",
+      "ko": "기기 저장: "
+    },
+    "privacy.017_all-records-are-stored-locally-on-your-dev": {
+      "zh-Hans": "所有记录默认保存在你的设备本地。",
+      "zh-TW": "所有記錄預設儲存在你的裝置上。",
+      "zh-HK": "所有記錄預設儲存在你的裝置上。",
+      "zh-MO": "所有記錄預設儲存在你的裝置上。",
+      "en": "All records are stored locally on your device by default.",
+      "ja": "すべての記録は、既定ではあなたの端末内に保存されます。",
+      "ko": "모든 기록은 기본으로 당신의 기기 안에만 저장돼요."
+    },
+    "privacy.018_icloud-sync-pro": {
+      "zh-Hans": "iCloud 同步（Pro 权益）：",
+      "zh-TW": "iCloud 同步（Pro 權益）：",
+      "zh-HK": "iCloud 同步（Pro 權益）：",
+      "zh-MO": "iCloud 同步（Pro 權益）：",
+      "en": "iCloud sync (Pro): ",
+      "ja": "iCloud同期（Pro）：",
+      "ko": "iCloud 동기화 (Pro): "
+    },
+    "privacy.019_after-purchasing-babylog-pro-and-signing-i": {
+      "zh-Hans": "购买「宝宝印记 Pro」并登录 iCloud 后，记录可通过 Apple iCloud 在你自己的设备之间加密同步，存储在你个人的 iCloud 私有空间（CloudKit 私有数据库）中。这一空间由 Apple 加密保护，开发者无法访问、无法查看。",
+      "zh-TW": "購買「寶寶印記 Pro」並登入 iCloud 後，記錄可透過 Apple iCloud 在你自己的裝置之間加密同步，存放在你的 iCloud 私人空間（CloudKit 私人資料庫）中。這個空間由 Apple 加密保護，開發者無法存取、也無法檢視。",
+      "zh-HK": "購買「寶寶印記 Pro」並登入 iCloud 後，記錄可經 Apple iCloud 在你自己的裝置之間加密同步，存放於你的 iCloud 私人空間（CloudKit 私人資料庫）。這個空間由 Apple 加密保護，開發者無法存取、無法查閱。",
+      "zh-MO": "購買「寶寶印記 Pro」並登入 iCloud 後，記錄可經 Apple iCloud 在你自己的裝置之間加密同步，存放於你的 iCloud 私人空間（CloudKit 私人資料庫）。這個空間由 Apple 加密保護，開發者無法存取、無法查閱。",
+      "en": "After purchasing BabyLog Pro and signing in to iCloud, records can sync encrypted between your own devices via Apple iCloud, stored in your personal private iCloud space (the CloudKit private database). That space is encrypted and protected by Apple; the developer cannot access or view it.",
+      "ja": "BabyLog Proを購入してiCloudにサインインすると、AppleのiCloud経由でご自身の端末間で暗号化されたかたちで同期され、あなたのプライベートなiCloud領域（CloudKitのプライベートデータベース）に保存されます。この領域はAppleが暗号化して守るため、開発者がアクセスしたり閲覧したりすることはできません。",
+      "ko": "BabyLog Pro를 구입하고 iCloud에 로그인하면 기록이 Apple iCloud를 통해 당신의 기기 사이에서 암호화 동기화되고, 개인 iCloud 공간인 CloudKit 비공개 데이터베이스에 저장돼요. 이 공간은 Apple이 암호화로 보호하므로 개발자가 접근하거나 볼 수 없어요."
+    },
+    "privacy.020_offline-use": {
+      "zh-Hans": "离线使用：",
+      "zh-TW": "離線使用：",
+      "zh-HK": "離線使用：",
+      "zh-MO": "離線使用：",
+      "en": "Offline use: ",
+      "ja": "オフラインでの利用：",
+      "ko": "오프라인 사용: "
+    },
+    "privacy.021_basic-recording-works-offline-and-records": {
+      "zh-Hans": "基础记录功能可在无网络时使用，记录先保存在本机；购买 Pro 且登录 iCloud 后，离线期间新增的记录会在联网后自动同步。",
+      "zh-TW": "基本記錄功能可在沒有網路時使用，記錄會先儲存在本機；購買 Pro 並登入 iCloud 後，離線期間新增的記錄會在連上網路後自動同步。",
+      "zh-HK": "基本記錄功能可在沒有網絡時使用，記錄會先儲存在本機；購買 Pro 並登入 iCloud 後，離線期間新增的記錄會在重新連線後自動同步。",
+      "zh-MO": "基本記錄功能可在沒有網絡時使用，記錄會先儲存在本機；購買 Pro 並登入 iCloud 後，離線期間新增的記錄會在重新連線後自動同步。",
+      "en": "Basic recording works offline and records are stored locally first; with Pro and iCloud, records created offline sync automatically when the network returns.",
+      "ja": "基本の記録は通信がない状態でも使え、まず端末内に保存されます。Proを購入してiCloudにサインインしていれば、オフライン中に追加した記録も、通信が戻りしだいで自動的に同期されます。",
+      "ko": "기본 기록은 네트워크 없이도 작동하고 기록을 먼저 기기에 저장해요. Pro를 구입하고 iCloud에 로그인한 뒤에는 오프라인에서 추가한 기록도 네트워크가 돌아오면 자동으로 동기화돼요."
+    },
+    "privacy.022_for-more-on-how-apple-handles-this-data-se": {
+      "zh-Hans": "与 Apple 的数据处理方式相关的更多信息，请参阅 Apple 的《iCloud 条款与条件》与《Apple 隐私政策》。",
+      "zh-TW": "關於 Apple 如何處理資料的更多資訊，請參閱 Apple 的《iCloud 條款與條件》與《Apple 隱私政策》。",
+      "zh-HK": "如需了解 Apple 處理資料方式的詳情，請參閱 Apple 的《iCloud 條款與條件》及《Apple 私隱政策》。",
+      "zh-MO": "如需了解 Apple 處理資料方式的詳情，請參閱 Apple 的《iCloud 條款與條件》及《Apple 私隱政策》。",
+      "en": "For more on how Apple handles this data, see Apple's iCloud Terms and Conditions and Apple's Privacy Policy.",
+      "ja": "Appleによるデータの取り扱いについては、Appleの「iCloud利用規約」と「Appleプライバシーポリシー」をご覧ください。",
+      "ko": "Apple이 이 데이터를 처리하는 방식이 궁금하다면 Apple의 ‘iCloud 이용 약관’과 ‘Apple 개인정보 보호’ 안내를 확인해 주세요."
+    },
+    "privacy.023_3-family-sharing": {
+      "zh-Hans": "三、家庭共享",
+      "zh-TW": "三、家庭共享",
+      "zh-HK": "三、家庭共享",
+      "zh-MO": "三、家庭共享",
+      "en": "3. Family sharing",
+      "ja": "3. 家族共有",
+      "ko": "3. 가족 공유"
+    },
+    "privacy.024_with-pro-you-may-invite-family-members-via": {
+      "zh-Hans": "购买 Pro 后，你可以通过 iCloud 邀请家人加入同一个家庭。加入后，家庭成员按照角色（owner / editor / viewer）看到并管理同一份宝宝记录。这些数据存储在 iCloud 共享空间中，同样由 Apple 加密保护，开发者无法访问。",
+      "zh-TW": "購買 Pro 後，你可以透過 iCloud 邀請家人加入同一個家庭。加入後，家庭成員會依角色（家庭管理員、編輯成員、唯讀成員）檢視並管理同一份寶寶記錄。這些資料儲存在 iCloud 共享空間，同樣由 Apple 加密保護，開發者無法存取。",
+      "zh-HK": "購買 Pro 後，你可以經 iCloud 邀請家人加入同一個家庭。加入後，家庭成員按角色（家庭管理員、編輯成員、唯讀成員）查看及管理同一份寶寶記錄。這些資料存放在 iCloud 共享空間，同樣由 Apple 加密保護，開發者無法存取。",
+      "zh-MO": "購買 Pro 後，你可以經 iCloud 邀請家人加入同一個家庭。加入後，家庭成員按角色（家庭管理員、編輯成員、唯讀成員）查看及管理同一份寶寶記錄。這些資料存放在 iCloud 共享空間，同樣由 Apple 加密保護，開發者無法存取。",
+      "en": "With Pro, you may invite family members via iCloud to join one family. Members then see and manage the same baby records according to their role (owner / editor / viewer). That data lives in an iCloud shared space, likewise encrypted by Apple and inaccessible to the developer.",
+      "ja": "Proをご利用のお客様は、iCloud経由で家族を同じ家庭に招待できます。参加後は、役割（オーナー / 編集メンバー / 閲覧メンバー）に応じて同じ赤ちゃんの記録を閲覧・管理します。このデータもiCloudの共有領域に置かれ、同様にAppleが暗号化するため、開発者はアクセスできません。",
+      "ko": "Pro를 쓰면 iCloud로 가족을 초대해 한 가족에서 함께할 수 있어요. 참여 후에는 각자의 역할(소유자 / 편집자 / 뷰어)에 따라 같은 아기 기록을 보고 관리하게 돼요. 이 데이터는 iCloud 공유 공간에 저장되며 역시 Apple이 암호화하므로 개발자가 접근할 수 없어요."
+    },
+    "privacy.025_please-note-family-members-you-invite-can": {
+      "zh-Hans": "请注意：你主动邀请的家庭成员可以看到共享的宝宝记录。请只邀请你信任的人。",
+      "zh-TW": "請注意：你主動邀請的家庭成員可以看到共享的寶寶記錄。請只邀請你信任的人。",
+      "zh-HK": "請注意：你主動邀請的家庭成員可以看到共享的寶寶記錄。請只邀請你信任的人。",
+      "zh-MO": "請注意：你主動邀請的家庭成員可以看到共享的寶寶記錄。請只邀請你信任的人。",
+      "en": "Please note: family members you invite can see the shared baby records. Invite only people you trust.",
+      "ja": "ご確認ください。招待した家族メンバーは、共有された赤ちゃんの記録を見られるようになります。信頼できる方だけを招待してください。",
+      "ko": "분명히 알려 둘게요. 당신이 초대한 가족은 공유된 아기 기록을 볼 수 있어요. 신뢰하는 사람만 초대해 주세요."
+    },
+    "privacy.026_4-children-s-privacy": {
+      "zh-Hans": "四、儿童隐私",
+      "zh-TW": "四、兒童隱私",
+      "zh-HK": "四、兒童私隱",
+      "zh-MO": "四、兒童私隱",
+      "en": "4. Children's privacy",
+      "ja": "4. お子様のプライバシー",
+      "ko": "4. 아동 개인정보"
+    },
+    "privacy.027_babylog-is-a-logging-tool-for-parents-and": {
+      "zh-Hans": "宝宝印记是给家长和照护者使用的记录工具，不是儿童 App，也不面向儿童收集任何信息。由于我们本身不收集任何数据，无论使用者是谁，都不存在儿童数据被收集的问题。",
+      "zh-TW": "寶寶印記是給家長與照護者使用的記錄工具，不是兒童 App，也不會向兒童蒐集任何資訊。由於我們本身不收集任何資料，無論使用者是誰，都不存在兒童資料被收集的問題。",
+      "zh-HK": "寶寶印記是給家長與照顧者使用的記錄工具，不是兒童 App，亦不會向兒童收集任何資料。由於我們本身不收集任何資料，無論使用者是誰，都不存在兒童資料被收集的問題。",
+      "zh-MO": "寶寶印記是給家長與照顧者使用的記錄工具，不是兒童 App，亦不會向兒童收集任何資料。由於我們本身不收集任何資料，無論使用者是誰，都不存在兒童資料被收集的問題。",
+      "en": "BabyLog is a logging tool for parents and caregivers — not a children's app — and collects nothing from anyone, children included. Since we collect no data at all, no child data can be collected.",
+      "ja": "BabyLogは保護者とお世話する方のための記録ツールで、お子様向けのAppではありません。お子様を含め、誰でもからの情報収集は行っていません。そもそもデータを収集していないため、お子様のデータが集まることもありません。",
+      "ko": "BabyLog는 부모와 보호자를 위한 기록 도구이지 어린이 앱이 아니고, 누구에게서도 정보를 수집하지 않아요. 우리 자체가 데이터를 수집하지 않기 때문에, 누가 사용하든 아동의 데이터가 수집될 일이 없어요."
+    },
+    "privacy.028_everything-about-your-baby-inside-the-app": {
+      "zh-Hans": "App 内关于宝宝的一切内容，由使用它的家长或监护人自行输入并完全掌控。",
+      "zh-TW": "App 內所有關於寶寶的內容，由使用的家長或監護人自行輸入並完全掌控。",
+      "zh-HK": "App 內所有關於寶寶的內容，由使用的家長或監護人自行輸入並完全掌控。",
+      "zh-MO": "App 內所有關於寶寶的內容，由使用的家長或監護人自行輸入並完全掌控。",
+      "en": "Everything about your baby inside the app is entered and fully controlled by you, the parent or guardian.",
+      "ja": "App内の赤ちゃんに関する内容はすべて、お使いの保護者または監督者が入力し、完全に管理されます。",
+      "ko": "앱 안의 아기에 관한 모든 내용은 사용하는 부모나 보호자가 직접 입력하고 완전히 관리해요."
+    },
+    "privacy.029_5-medical-boundary": {
+      "zh-Hans": "五、医疗边界",
+      "zh-TW": "五、醫療邊界",
+      "zh-HK": "五、醫療邊界",
+      "zh-MO": "五、醫療邊界",
+      "en": "5. Medical boundary",
+      "ja": "5. 医療の判断には入り込みません",
+      "ko": "5. 의료 영역의 경계"
+    },
+    "privacy.030_temperature-medication-and-measurement-ent": {
+      "zh-Hans": "体温、用药、身高体重等记录仅作客观记录用途。App 不提供诊断、阈值判断、评分或用药建议，也不做发烧提示或生长百分位计算。任何健康问题请咨询医生或其他专业人士。",
+      "zh-TW": "體溫、用藥、身高體重等記錄只作客觀記錄用途。App 不提供診斷、閾值判斷、評分或用藥建議，也不做發燒提示或生長百分位計算。如有健康問題，請諮詢醫師或其他專業人員。",
+      "zh-HK": "體溫、用藥、身高體重等記錄僅作如實記錄用途。App 不提供診斷、閾值判斷、評分或用藥建議，亦不作發燒提示或生長百分位計算。如有健康問題，請諮詢醫生或其他專業人士。",
+      "zh-MO": "體溫、用藥、身高體重等記錄僅作如實記錄用途。App 不提供診斷、閾值判斷、評分或用藥建議，亦不作發燒提示或生長百分位計算。如有健康問題，請諮詢醫生或其他專業人士。",
+      "en": "Temperature, medication and measurement entries are for objective record-keeping only. The app provides no diagnosis, threshold judgments, scoring, medication advice, fever flagging, or growth percentiles. Always consult a doctor or other professional for health concerns.",
+      "ja": "体温・服薬・身長体重などの記録は、客観的に書き留めるためだけのものです。診断やしきい値による判定、評価、服薬のアドバイス、発熱をお知らせする機能、成長のパーセンタイル算出は行っていません。健康についてのご相談は、必ず医師などの専門家へお寄せください。",
+      "ko": "체온, 약 복용, 키·몸무게 기록은 객관적인 기록 목적으로만 쓰여요. 이 앱은 진단이나 기준 판단, 점수, 복용 조언을 제공하지 않고 발열 표시나 성장 백분위 계산도 하지 않아요. 건강이 걱정된다면 의사나 다른 전문가에게 문의해 주세요."
+    },
+    "privacy.031_6-your-rights-and-controls": {
+      "zh-Hans": "六、你的权利与控制",
+      "zh-TW": "六、你的權利與掌控",
+      "zh-HK": "六、你的權利與控制",
+      "zh-MO": "六、你的權利與控制",
+      "en": "6. Your rights and controls",
+      "ja": "6. あなたの権利と管理",
+      "ko": "6. 당신의 권리와 관리 수단"
+    },
+    "privacy.032_because-your-data-is-always-in-your-hands": {
+      "zh-Hans": "因为数据始终在你手中，你也始终可以控制它：",
+      "zh-TW": "因為資料始終在你手上，你也始終可以控制它：",
+      "zh-HK": "因為資料始終在你手上，你也始終可以控制它：",
+      "zh-MO": "因為資料始終在你手上，你也始終可以控制它：",
+      "en": "Because your data is always in your hands, you always control it:",
+      "ja": "データはいつもあなたの手の内にあるので、いつでもあなたが管理できます。",
+      "ko": "데이터는 언제나 당신의 손에 있으니, 언제나 당신이 관리할 수 있어요:"
+    },
+    "privacy.033_export-back-up-everything-as-a-zip-anytime": {
+      "zh-Hans": "导出：在「我的 → 导出与备份」中随时将全部数据导出为 ZIP 备份。",
+      "zh-TW": "匯出：隨時到「我的 → 匯出與備份」把全部資料匯出成 ZIP 備份。",
+      "zh-HK": "匯出：可隨時在「我的 → 匯出與備份」把全部資料匯出為 ZIP 備份。",
+      "zh-MO": "匯出：可隨時在「我的 → 匯出與備份」把全部資料匯出為 ZIP 備份。",
+      "en": "Export: back up everything as a ZIP anytime from My → Export & backup.",
+      "ja": "書き出し：「マイページ」→「エクスポートとバックアップ」から、いつでも全データをZIPで書き出せます。",
+      "ko": "내보내기: 내 정보 → 내보내기 및 백업에서 언제든 전체 데이터를 ZIP 백업으로 저장할 수 있어요."
+    },
+    "privacy.034_delete-remove-single-entries-or-permanentl": {
+      "zh-Hans": "删除：你可以删除单条记录；也可以随时永久删除你的全部数据（卸载 App 并在 iCloud 设置中删除对应数据，或使用 App 内提供的删除入口）。",
+      "zh-TW": "刪除：你可以刪除單筆記錄，也可以隨時永久刪除全部資料（解除安裝 App 並在 iCloud 設定中刪除對應資料，或使用 App 內的刪除入口）。",
+      "zh-HK": "刪除：你可以刪除單條記錄，亦可隨時永久刪除全部資料（移除 App 並在 iCloud 設定中刪除相關資料，或使用 App 內提供的刪除入口）。",
+      "zh-MO": "刪除：你可以刪除單條記錄，亦可隨時永久刪除全部資料（移除 App 並在 iCloud 設定中刪除相關資料，或使用 App 內提供的刪除入口）。",
+      "en": "Delete: remove single entries, or permanently delete all of your data at any time (uninstall the app and remove its data in iCloud settings, or use the in-app deletion entry).",
+      "ja": "削除：記録は1件ずつ削除できます。いつでも全データを完全に削除することも可能です（Appを削除してiCloudの設定でこのAppのデータを消す、またはApp内の削除入口を利用）。",
+      "ko": "삭제: 개별 기록을 지울 수 있고, 언제든 모든 데이터를 완전히 삭제할 수도 있어요(앱을 지운 뒤 iCloud 설정에서 앱 데이터를 삭제하거나, 앱에서 제공하는 삭제 안내를 이용하세요)."
+    },
+    "privacy.035_archive-baby-profiles-can-be-archived-but": {
+      "zh-Hans": "归档：宝宝档案只可归档、不可永久删除，这是为了保留完整的成长底稿。",
+      "zh-TW": "歸檔：寶寶檔案只能歸檔、不能永久刪除，這是為了留下完整的成長底稿。",
+      "zh-HK": "歸檔：寶寶檔案只可歸檔、不可永久刪除，這是為了保留完整的成長底稿。",
+      "zh-MO": "歸檔：寶寶檔案只可歸檔、不可永久刪除，這是為了保留完整的成長底稿。",
+      "en": "Archive: baby profiles can be archived but not permanently deleted, so the growth record stays complete.",
+      "ja": "アーカイブ：赤ちゃんプロフィールはアーカイブできますが、完全には削除できません。成長の記録を途切れずに残すためです。",
+      "ko": "보관: 아기 프로필은 보관만 가능하고 완전히 삭제되지는 않아요. 성장 기록을 끝까지 남기기 위한 선택이에요."
+    },
+    "privacy.036_leave-sharing-the-owner-can-remove-family": {
+      "zh-Hans": "退出共享：owner 可以随时移除家庭成员。",
+      "zh-TW": "退出共享：家庭管理員可以隨時移除家庭成員。",
+      "zh-HK": "退出共享：家庭管理員可以隨時移除家庭成員。",
+      "zh-MO": "退出共享：家庭管理員可以隨時移除家庭成員。",
+      "en": "Leave sharing: the owner can remove family members at any time.",
+      "ja": "共有をやめる：オーナーはいつでも家族メンバーを外せます。",
+      "ko": "공유 해제: 소유자는 가족 구성원을 언제든 제거할 수 있어요."
+    },
+    "privacy.037_7-changes-to-this-policy": {
+      "zh-Hans": "七、政策变更",
+      "zh-TW": "七、政策變更",
+      "zh-HK": "七、政策變更",
+      "zh-MO": "七、政策變更",
+      "en": "7. Changes to this policy",
+      "ja": "7. このポリシーの変更",
+      "ko": "7. 방침 변경"
+    },
+    "privacy.038_if-we-ever-make-major-architectural-change": {
+      "zh-Hans": "如果我们对架构做出重大调整（例如引入新的数据类型或第三方服务），我们会更新本政策并在 App 内提示，同时更新生效日期。当前架构下（无后端、无 SDK），本政策预期保持稳定。",
+      "zh-TW": "如果我們調整架構（例如引入新的資料類型或第三方服務），會更新本政策並在 App 內提示，同時更新生效日期。以目前的架構（無後端、無 SDK）而言，本政策預期會保持穩定。",
+      "zh-HK": "如果我們對架構作出重大調整（例如引入新的資料類型或第三方服務），會更新本政策並在 App 內提示，同時更新生效日期。在現有架構下（無後端、無 SDK），本政策預計保持穩定。",
+      "zh-MO": "如果我們對架構作出重大調整（例如引入新的資料類型或第三方服務），會更新本政策並在 App 內提示，同時更新生效日期。在現有架構下（無後端、無 SDK），本政策預計保持穩定。",
+      "en": "If we ever make major architectural changes (new data types or third-party services), we will update this policy, surface a notice in the app, and refresh the effective date. Under the current architecture (no backend, no SDKs), this policy is expected to remain stable.",
+      "ja": "構成に大きな変更があった場合（新しいデータ型や第三者サービスの追加など）、本ポリシーを更新し、App内にお知らせを表示し、施行日を読み直します。現在の構成（サーバーなし、SDKなし）では、本ポリシーは変わらない見込みです。",
+      "ko": "구조에 큰 변화가 생기면(예를 들어 새로운 데이터 종류나 서드파티 서비스를 도입하는 경우) 이 방침을 갱신하고 앱 안에 안내를 띄우며 시행일도 고칠게요. 지금 구조(백엔드 없음, SDK 없음)에서는 이 방침이 계속 그대로일 것으로 보여요."
+    },
+    "privacy.039_8-contact-us": {
+      "zh-Hans": "八、联系我们",
+      "zh-TW": "八、聯絡我們",
+      "zh-HK": "八、聯絡我們",
+      "zh-MO": "八、聯絡我們",
+      "en": "8. Contact us",
+      "ja": "8. お問い合わせ",
+      "ko": "8. 문의하기"
+    },
+    "privacy.040_questions-about-this-policy-or-our-data-pr": {
+      "zh-Hans": "对本政策或数据实践有任何疑问，欢迎通过 GitHub Issues 联系我们：",
+      "zh-TW": "對本政策或資料處理有任何疑問，歡迎透過 GitHub Issues 與我們聯絡：",
+      "zh-HK": "如對本政策或資料處理有任何疑問，歡迎經 GitHub Issues 與我們聯絡：",
+      "zh-MO": "如對本政策或資料處理有任何疑問，歡迎經 GitHub Issues 與我們聯絡：",
+      "en": "Questions about this policy or our data practices? Reach us on GitHub Issues:",
+      "ja": "本ポリシーやデータの取り扱いについてご質問があれば、GitHub Issuesまでご連絡ください。",
+      "ko": "이 방침이나 데이터 처리에 대해 궁금한 점이 있으면 GitHub Issues로 문의해 주세요:"
+    },
+    "privacy.041_reminder-please-avoid-including-identifiab": {
+      "zh-Hans": "提醒：请在 Issue 中避免包含宝宝照片、姓名、出生日期等可识别的隐私信息。",
+      "zh-TW": "提醒：請在 Issue 中避免包含寶寶照片、姓名、出生日期等可辨識的隱私資訊。",
+      "zh-HK": "提醒：請在 Issue 中避免提供寶寶照片、姓名、出生日期等可識別的私隱資料。",
+      "zh-MO": "提醒：請在 Issue 中避免提供寶寶照片、姓名、出生日期等可識別的私隱資料。",
+      "en": "Reminder: please avoid including identifiable details — photos, names, birth dates — in issues.",
+      "ja": "お願い：Issueには赤ちゃんの写真・氏名・生年月日など、個人を特定できる情報を書き込まないでください。",
+      "ko": "부탁: 이슈에는 아기 사진, 이름, 출생일처럼 누군지 알 수 있는 정보를 넣지 말아 주세요."
+    },
+    "privacy.042_2026-yuanyuan-li-all-rights-reserved": {
+      "zh-Hans": "版权 © 2026 Yuanyuan Li。保留所有权利。",
+      "zh-TW": "版權 © 2026 Yuanyuan Li。保留所有權利。",
+      "zh-HK": "版權 © 2026 Yuanyuan Li。保留所有權利。",
+      "zh-MO": "版權 © 2026 Yuanyuan Li。保留所有權利。",
+      "en": "© 2026 Yuanyuan Li. All rights reserved.",
+      "ja": "© 2026 Yuanyuan Li. All rights reserved.",
+      "ko": "저작권 © 2026 Yuanyuan Li. 모든 권리 보유."
+    },
+    "privacy.043_babylog": {
+      "zh-Hans": "宝宝印记 BabyLog",
+      "zh-TW": "寶寶印記 BabyLog",
+      "zh-HK": "寶寶印記 BabyLog",
+      "zh-MO": "寶寶印記 BabyLog",
+      "en": "BabyLog",
+      "ja": "BabyLog",
+      "ko": "BabyLog"
+    },
+    "privacy.046_feedback": {
+      "zh-Hans": "问题反馈",
+      "zh-TW": "問題回饋",
+      "zh-HK": "意見回饋",
+      "zh-MO": "意見回饋",
+      "en": "Feedback",
+      "ja": "フィードバック",
+      "ko": "피드백"
+    },
+    "index.meta.title": {
+      "zh-Hans": "宝宝印记 BabyLog — 喂养睡眠护理，一站记录",
+      "zh-TW": "寶寶印記 BabyLog — 餵養睡眠照護，一站記錄",
+      "zh-HK": "寶寶印記 BabyLog — 餵養睡眠照顧，一站記錄",
+      "zh-MO": "寶寶印記 BabyLog — 餵養睡眠照顧，一站記錄",
+      "en": "BabyLog — Feeding, sleep and care in one place",
+      "ja": "BabyLog — 授乳・睡眠・日々のケアをひとつに",
+      "ko": "BabyLog — 수유·수면·돌봄을 한곳에"
+    },
+    "index.meta.description": {
+      "zh-Hans": "宝宝印记是一款为爸爸妈妈准备的育儿记录 App：3 组 9 类记录、成长时间线、iCloud 家庭共享与桌面小组件。免费下载，含一次性 Pro，无广告，无需注册。",
+      "zh-TW": "寶寶印記是為爸爸媽媽打造的育兒記錄 App：3 組 9 類記錄、成長時間軸、iCloud 家庭共享與主畫面小組件。免費下載，含一次性 Pro，無廣告，無需註冊。",
+      "zh-HK": "寶寶印記是為爸爸媽媽打造的育兒記錄 App：3 組 9 類記錄、成長時間軸、iCloud 家庭共享與桌面小組件。免費下載，含一次性 Pro，無廣告，無需註冊。",
+      "zh-MO": "寶寶印記是為爸爸媽媽打造的育兒記錄 App：3 組 9 類記錄、成長時間軸、iCloud 家庭共享與桌面小組件。免費下載，含一次性 Pro，無廣告，無需註冊。",
+      "en": "BabyLog is a calm baby-care journal for parents: nine record types in three groups, a growth timeline, family sharing through iCloud, and Home Screen widgets. Free to download with a one-time Pro option; no ads and no sign-up.",
+      "ja": "BabyLogは、育児にはじめて向き合う方ための記録アプリです。3グループ9種類の記録、成長タイムライン、iCloudによる家族共有、ホーム画面のウィジェットに対応。無料でダウンロードでき、Proは買い切り。広告なし、登録不要です。",
+      "ko": "BabyLog는 부모를 위한 차분한 육아 기록 앱이에요. 3그룹 9종류 기록, 성장 타임라인, iCloud 가족 공유, 바탕화면 위젯까지. 무료 다운로드에 Pro는 일회성 구매이며 광고와 회원가입이 없어요."
+    },
+    "index.og.description": {
+      "zh-Hans": "为爸爸妈妈准备的育儿记录本。9 类记录、成长时间线、家庭共享，数据只属于你。",
+      "zh-TW": "為爸爸媽媽準備的育兒記錄本。9 類記錄、成長時間軸、家庭共享，資料只屬於你。",
+      "zh-HK": "為爸爸媽媽準備的育兒記錄本。9 類記錄、成長時間軸、家庭共享，資料只屬於你。",
+      "zh-MO": "為爸爸媽媽準備的育兒記錄本。9 類記錄、成長時間軸、家庭共享，資料只屬於你。",
+      "en": "A calm baby-care journal for parents. Nine record types, a growth timeline and family sharing — your data stays yours.",
+      "ja": "育児に寄り添う記録アプリ。9種類の記録、成長タイムライン、家族共有。データはあなたのものです。",
+      "ko": "부모를 위한 차분한 육아 기록장. 9종류 기록, 성장 타임라인, 가족 공유 — 데이터는 오로지 당신의 것."
+    },
+    "support.meta.title": {
+      "zh-Hans": "技术支持 — 宝宝印记 BabyLog",
+      "zh-TW": "技術支援 — 寶寶印記 BabyLog",
+      "zh-HK": "技術支援 — 寶寶印記 BabyLog",
+      "zh-MO": "技術支援 — 寶寶印記 BabyLog",
+      "en": "Support — BabyLog",
+      "ja": "サポート — BabyLog",
+      "ko": "고객 지원 — BabyLog"
+    },
+    "support.meta.description": {
+      "zh-Hans": "宝宝印记常见问题、反馈渠道与技术支持。",
+      "zh-TW": "寶寶印記常見問題、問題回饋與技術支援。",
+      "zh-HK": "寶寶印記常見問題、意見回饋與技術支援。",
+      "zh-MO": "寶寶印記常見問題、意見回饋與技術支援。",
+      "en": "BabyLog FAQ, feedback and support.",
+      "ja": "BabyLogのよくある質問、ご意見の受付窓口、サポート情報。",
+      "ko": "BabyLog 자주 묻는 질문, 문의 방법과 고객 지원 안내."
+    },
+    "privacy.meta.title": {
+      "zh-Hans": "隐私政策 — 宝宝印记 BabyLog",
+      "zh-TW": "隱私權政策 — 寶寶印記 BabyLog",
+      "zh-HK": "私隱政策 — 寶寶印記 BabyLog",
+      "zh-MO": "私隱政策 — 寶寶印記 BabyLog",
+      "en": "Privacy Policy — BabyLog",
+      "ja": "プライバシーポリシー — BabyLog",
+      "ko": "개인정보 처리방침 — BabyLog"
+    },
+    "privacy.meta.description": {
+      "zh-Hans": "宝宝印记 BabyLog 隐私政策：我们不收集任何数据。记录仅保存在你的设备与你的 iCloud 中。",
+      "zh-TW": "寶寶印記 BabyLog 隱私權政策：我們不收集任何資料。記錄只儲存在你的裝置與你的 iCloud 中。",
+      "zh-HK": "寶寶印記 BabyLog 私隱政策：我們不收集任何資料。記錄只儲存於你的裝置與你的 iCloud 中。",
+      "zh-MO": "寶寶印記 BabyLog 私隱政策：我們不收集任何資料。記錄只儲存於你的裝置與你的 iCloud 中。",
+      "en": "BabyLog Privacy Policy: we collect no data. Records stay on your device and in your iCloud.",
+      "ja": "BabyLogプライバシーポリシー：私たちは一切のデータを収集しません。記録はあなたの端末と、あなただけのiCloudにのみ保存されます。",
+      "ko": "BabyLog 개인정보 처리방침 — 우리는 어떤 데이터도 수집하지 않아요. 기록은 당신의 기기와 당신의 iCloud에만 남아요."
+    },
+    "index.alt.home": {
+      "zh-Hans": "宝宝印记首页截图：今日概览与快速记录",
+      "zh-TW": "寶寶印記首頁截圖：今日概覽與快速記錄",
+      "zh-HK": "寶寶印記首頁截圖：今日概覽與快速記錄",
+      "zh-MO": "寶寶印記首頁截圖：今日概覽與快速記錄",
+      "en": "BabyLog home screen: today overview and quick recording",
+      "ja": "BabyLogのホーム画面のスクリーンショット：今日の概要とクイック記録",
+      "ko": "BabyLog 홈 화면 스크린샷: 오늘 현황과 빠른 기록"
+    },
+    "index.alt.record": {
+      "zh-Hans": "记录页截图：3 组 9 类快速记录入口",
+      "zh-TW": "記錄頁截圖：3 組 9 類快速記錄入口",
+      "zh-HK": "記錄頁截圖：3 組 9 類快速記錄入口",
+      "zh-MO": "記錄頁截圖：3 組 9 類快速記錄入口",
+      "en": "Records screen: quick entry for nine record types in three groups",
+      "ja": "記録画面のスクリーンショット：3グループ9種類の記録入口",
+      "ko": "기록 화면 스크린샷: 3그룹 9종류 빠른 기록 입구"
+    },
+    "index.alt.sleep": {
+      "zh-Hans": "睡眠分析页截图：时间条、统计卡与今日记录",
+      "zh-TW": "睡眠分析頁截圖：時間條、統計卡與今日記錄",
+      "zh-HK": "睡眠分析頁截圖：時間條、統計卡與今日記錄",
+      "zh-MO": "睡眠分析頁截圖：時間條、統計卡與今日記錄",
+      "en": "Sleep analysis screen: timeline, summary cards and today entries",
+      "ja": "睡眠分析画面のスクリーンショット：時間バー、統計カード、今日の記録",
+      "ko": "수면 분석 화면 스크린샷: 시간 막대와 통계 카드, 오늘 기록"
+    },
+    "index.alt.timeline": {
+      "zh-Hans": "时间线截图：照片、里程碑与成长节点",
+      "zh-TW": "時間軸截圖：照片、里程碑與成長節點",
+      "zh-HK": "時間軸截圖：照片、里程碑與成長節點",
+      "zh-MO": "時間軸截圖：照片、里程碑與成長節點",
+      "en": "Timeline screen: photos, milestones and growth nodes",
+      "ja": "タイムラインのスクリーンショット：写真、マイルストーン、成長のポイント",
+      "ko": "타임라인 화면 스크린샷: 사진, 마일스톤, 성장 지점"
+    },
+    "index.alt.family": {
+      "zh-Hans": "「我的」页截图：iCloud 同步状态、隐私与数据、导出与备份",
+      "zh-TW": "「我的」頁截圖：iCloud 同步狀態、隱私與資料、匯出與備份",
+      "zh-HK": "「我的」頁截圖：iCloud 同步狀態、私隱與資料、匯出與備份",
+      "zh-MO": "「我的」頁截圖：iCloud 同步狀態、私隱與資料、匯出與備份",
+      "en": "Profile screen: iCloud sync status, privacy and data, export and backup",
+      "ja": "マイページ画面のスクリーンショット：iCloud同期の状態、プライバシーとデータ、エクスポートとバックアップ",
+      "ko": "내 정보 화면 스크린샷: iCloud 동기화 상태, 개인정보 및 데이터, 내보내기 및 백업"
+    },
+    "common.aria.mainNav": {
+      "zh-Hans": "主导航",
+      "zh-TW": "主要導覽",
+      "zh-HK": "主要導覽",
+      "zh-MO": "主要導覽",
+      "en": "Main navigation",
+      "ja": "メインナビゲーション",
+      "ko": "주 탐색"
+    },
+    "common.aria.footerNav": {
+      "zh-Hans": "页脚导航",
+      "zh-TW": "頁尾導覽",
+      "zh-HK": "頁尾導覽",
+      "zh-MO": "頁尾導覽",
+      "en": "Footer navigation",
+      "ja": "フッターナビゲーション",
+      "ko": "푸터 탐색"
+    },
+    "common.aria.language": {
+      "zh-Hans": "切换语言",
+      "zh-TW": "選擇語言",
+      "zh-HK": "選擇語言",
+      "zh-MO": "選擇語言",
+      "en": "Select language",
+      "ja": "言語を選択",
+      "ko": "언어 선택"
+    }
+  },
+  "pageKeys": {
+    "index.html": [
+      "common.aria.footerNav",
+      "common.aria.language",
+      "common.aria.mainNav",
+      "index.001_babylog",
+      "index.002_home",
+      "index.003_support",
+      "index.004_privacy",
+      "index.005_every-little-day-gently-kept",
+      "index.006_feeding-sleep-care-and-growth-nine-record",
+      "index.007_download-on-the-app-store",
+      "index.008_faq",
+      "index.009_free-download-one-time-pro-purchase-no-sig",
+      "index.010_saved-on-this-device",
+      "index.011_sleep-timer-11-5h",
+      "index.012_pro-can-sync-to-your-icloud",
+      "index.013_no-tracking-no-ads",
+      "index.014_offline-basic-records-icloud-sync-with-pro",
+      "index.015_9-record-types",
+      "index.016_a-full-day-all-in-one-place",
+      "index.017_no-sign-up-ready-on-first-launch-one-tap-p",
+      "index.018_feeding",
+      "index.019_nursing",
+      "index.020_per-side-timers",
+      "index.021_formula",
+      "index.022_ml-amounts",
+      "index.023_solid-food",
+      "index.024_first-bites-count",
+      "index.025_water",
+      "index.026_daily-care",
+      "index.027_diaper",
+      "index.028_wet-dry-at-a-glance",
+      "index.029_sleep",
+      "index.030_wake-ups-pause-backfill",
+      "index.031_health-growth",
+      "index.032_height-weight",
+      "index.033_watch-them-grow",
+      "index.034_temperature",
+      "index.035_c-f-switchable",
+      "index.036_medication",
+      "index.037_log-every-dose",
+      "index.039_remember-every-restless-night",
+      "index.040_start-the-timer-with-one-tap-pause-anytime",
+      "index.041_quick-start-pause",
+      "index.042_easy-even-at-3-a-m",
+      "index.043_today-7-day-and-30-day-sleep-review",
+      "index.044_a-home-screen-timer-widget-always-in-sight",
+      "index.045_timeline",
+      "index.046_growing-up-frame-by-frame",
+      "index.047_photos-milestones-and-growth-measurements",
+      "index.048_first-swim-first-word-all-findable",
+      "index.049_browse-by-month-growth-nodes-clearly-marke",
+      "index.050_daily-care-logs-never-clutter-the-timeline",
+      "index.051_family-sharing",
+      "index.052_raising-together-never-clashing",
+      "index.053_invite-family-via-icloud-everyone-logs-the",
+      "index.054_owner-manage",
+      "index.055_create-the-family-invite-or-remove-members",
+      "index.056_editor-edit",
+      "index.057_records-and-edits-just-like-the-owner-the",
+      "index.058_viewer-read-only",
+      "index.059_perfect-for-grandparents-see-everything-ch",
+      "index.060_your-data-your-rules",
+      "index.061_we-can-t-see-it-by-design",
+      "index.062_no-accounts-no-servers-of-ours-records-liv",
+      "index.063_basic-records-work-without-signing-in-to-i",
+      "index.064_export-a-zip-backup-anytime-your-data-trav",
+      "index.065_no-ads-no-third-party-analytics-sdks",
+      "index.066_home-screen-widgets",
+      "index.067_one-glance-one-tap",
+      "index.068_daily-overview",
+      "index.069_today-s-feeding-sleep-and-diaper-summary-a",
+      "index.070_sleep-timer",
+      "index.071_see-the-running-timer-anytime-start-and-st",
+      "index.072_quick-record",
+      "index.073_nursing-formula-and-diaper-changes-right-f",
+      "index.074_honest-by-design",
+      "index.075_some-things-we-do-on-purpose-by-not-doing",
+      "index.076_a-logging-tool-should-never-overstep-on-he",
+      "index.077_no-fever-flagging",
+      "index.078_temperatures-are-logged-as-is-no-threshold",
+      "index.079_no-bmi-or-percentiles",
+      "index.080_review-growth-with-your-pediatrician",
+      "index.081_no-medication-advice",
+      "index.082_no-reminders-no-dosage-suggestions",
+      "index.083_profiles-archive-never-delete",
+      "index.084_the-growth-record-stays-complete",
+      "index.085_start-today-s-first-record-now",
+      "index.086_free-to-download-with-a-one-time-pro-optio",
+      "index.088_questions-or-suggestions-reach-us-via-the",
+      "index.089_babylog",
+      "index.091_privacy-policy",
+      "index.092_feedback",
+      "index.alt.family",
+      "index.alt.home",
+      "index.alt.record",
+      "index.alt.sleep",
+      "index.alt.timeline",
+      "index.meta.description",
+      "index.meta.title",
+      "index.og.description"
+    ],
+    "support.html": [
+      "common.aria.footerNav",
+      "common.aria.language",
+      "common.aria.mainNav",
+      "support.001_babylog",
+      "support.002_home",
+      "support.003_support",
+      "support.004_privacy",
+      "support.006_most-answers-live-in-the-faq-below-if-your",
+      "support.007_report-an-issue-suggest",
+      "support.008_open-a-new-topic-in-github-issues-please-i",
+      "support.009_note-please-never-paste-your-baby-s-photos",
+      "support.010_open-github-issues",
+      "support.011_getting-started",
+      "support.012_what-do-i-do-first",
+      "support.013_on-first-launch-onboarding-walks-you-throu",
+      "support.014_do-i-need-to-sign-up",
+      "support.015_no-babylog-has-no-account-system-open-and",
+      "support.016_can-i-use-it-without-icloud",
+      "support.017_yes-without-icloud-basic-records-such-as-f",
+      "support.018_recording",
+      "support.019_what-can-i-record",
+      "support.020_nine-types-in-three-groups-feeding-nursing",
+      "support.021_i-forgot-to-log-something-now-what",
+      "support.022_every-record-type-supports-backfilling-pic",
+      "support.023_can-i-fix-or-delete-a-record",
+      "support.024_yes-edit-or-delete-any-single-entry-from-i",
+      "support.025_why-doesn-t-the-app-flag-fevers",
+      "support.026_intentionally-babylog-is-a-logging-tool-no",
+      "support.027_family-sharing",
+      "support.028_how-do-i-invite-family-members",
+      "support.029_start-an-invitation-from-my-family-members",
+      "support.030_what-s-the-difference-between-roles",
+      "support.031_creator",
+      "support.032_manages-the-family-and-members",
+      "support.033_editor",
+      "support.034_can-record-and-edit",
+      "support.035_viewer",
+      "support.036_can-only-view-great-for-grandparents",
+      "support.037_can-i-delete-a-baby-profile",
+      "support.038_profiles-can-be-archived-but-never-permane",
+      "support.039_home-screen-widgets",
+      "support.040_how-do-i-add-a-widget",
+      "support.041_long-press-the-home-screen-tap-search-for",
+      "support.042_why-is-my-widget-empty",
+      "support.043_widget-data-comes-from-records-that-exist",
+      "support.044_data-backup",
+      "support.045_how-do-i-back-up-my-data",
+      "support.046_two-ways-with-pro-and-icloud-data-syncs-wi",
+      "support.047_how-do-i-move-data-to-a-new-phone",
+      "support.048_with-pro-sign-in-to-the-same-icloud-accoun",
+      "support.049_can-the-developers-see-my-data",
+      "support.050_no-data-lives-only-on-your-device-and-in-y",
+      "support.051_don-t-have-babylog-yet",
+      "support.052_download-on-the-app-store",
+      "support.053_babylog",
+      "support.055_privacy-policy",
+      "support.056_feedback",
+      "support.meta.description",
+      "support.meta.title"
+    ],
+    "privacy.html": [
+      "common.aria.footerNav",
+      "common.aria.language",
+      "common.aria.mainNav",
+      "privacy.001_babylog",
+      "privacy.002_home",
+      "privacy.003_support",
+      "privacy.004_privacy",
+      "privacy.005_privacy-policy",
+      "privacy.006_with-babylog-you-stay-in-complete-control",
+      "privacy.007_effective-date-november-25-2026-applies-to",
+      "privacy.008_1-we-collect-no-data",
+      "privacy.009_babylog-has-no-account-system-no-servers-o",
+      "privacy.010_identity-or-contact-info-name-email-phone",
+      "privacy.011_device-identifiers-idfa-idfv-or-any-user-i",
+      "privacy.012_usage-data-taps-views-crash-statistics",
+      "privacy.013_anything-you-record-feeding-sleep-diapers",
+      "privacy.014_in-the-app-store-s-app-privacy-label-this",
+      "privacy.015_2-where-your-data-lives",
+      "privacy.016_on-device-storage",
+      "privacy.017_all-records-are-stored-locally-on-your-dev",
+      "privacy.018_icloud-sync-pro",
+      "privacy.019_after-purchasing-babylog-pro-and-signing-i",
+      "privacy.020_offline-use",
+      "privacy.021_basic-recording-works-offline-and-records",
+      "privacy.022_for-more-on-how-apple-handles-this-data-se",
+      "privacy.023_3-family-sharing",
+      "privacy.024_with-pro-you-may-invite-family-members-via",
+      "privacy.025_please-note-family-members-you-invite-can",
+      "privacy.026_4-children-s-privacy",
+      "privacy.027_babylog-is-a-logging-tool-for-parents-and",
+      "privacy.028_everything-about-your-baby-inside-the-app",
+      "privacy.029_5-medical-boundary",
+      "privacy.030_temperature-medication-and-measurement-ent",
+      "privacy.031_6-your-rights-and-controls",
+      "privacy.032_because-your-data-is-always-in-your-hands",
+      "privacy.033_export-back-up-everything-as-a-zip-anytime",
+      "privacy.034_delete-remove-single-entries-or-permanentl",
+      "privacy.035_archive-baby-profiles-can-be-archived-but",
+      "privacy.036_leave-sharing-the-owner-can-remove-family",
+      "privacy.037_7-changes-to-this-policy",
+      "privacy.038_if-we-ever-make-major-architectural-change",
+      "privacy.039_8-contact-us",
+      "privacy.040_questions-about-this-policy-or-our-data-pr",
+      "privacy.041_reminder-please-avoid-including-identifiab",
+      "privacy.042_2026-yuanyuan-li-all-rights-reserved",
+      "privacy.043_babylog",
+      "privacy.046_feedback",
+      "privacy.meta.description",
+      "privacy.meta.title"
+    ]
+  }
+}
