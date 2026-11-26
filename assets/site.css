@@ -69,15 +69,14 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
   text-decoration: none; letter-spacing: 0.02em;
 }
 .brand-mark {
-  width: 34px; height: 34px; border-radius: 11px;
-  background: var(--sage);
-  display: grid; place-items: center;
-  color: #fff; flex: none;
+  width: 34px; height: 34px; border-radius: 8px; /* 与 iOS 图标圆角比例一致（边长约 22%） */
+  object-fit: cover; flex: none;
+  box-shadow: 0 0 0 1px rgba(31, 42, 46, 0.06), 0 1px 2px rgba(31, 42, 46, 0.12);
 }
 .nav-links { display: flex; gap: 22px; margin-left: auto; align-items: center; }
 .nav-links a {
   color: var(--sub); text-decoration: none; font-size: 15.5px; font-weight: 500;
-  padding: 6px 2px;
+  padding: 6px 2px; white-space: nowrap;
 }
 .nav-links a:hover { color: var(--sage-deep); }
 .nav-links a[aria-current="page"] { color: var(--sage-deep); font-weight: 600; }
@@ -343,9 +342,38 @@ h2 { font-size: clamp(28px, 4vw, 38px); font-weight: 800; line-height: 1.3; lett
   .hero { padding: 48px 0 72px; }
 }
 @media (max-width: 560px) {
-  .nav { gap: 14px; }
-  .nav-links { gap: 14px; }
-  .nav-links a { font-size: 14px; }
+  /* 顶栏两行：品牌 + 语言选择器 / 页面链接 */
+  .nav {
+    height: auto; flex-wrap: wrap; align-items: center;
+    gap: 4px 8px; padding: 8px 24px; /* .nav 同时是 .wrap，保留左右 24px */
+  }
+  .brand { margin-right: auto; flex: none; } /* 品牌不参与压缩，换语言也不会被挤换行 */
+  .nav-links {
+    order: 2; width: 100%; margin-left: -6px;
+    flex-wrap: wrap; gap: 4px 18px;
+  }
+  .nav-links a { font-size: 14px; padding: 10px 6px; } /* 点击区 ≥ 24×40px */
+  .lang-select {
+    order: 1; font-size: 16px; /* ≥16px 避免 iOS 聚焦时自动放大 */
+    padding: 7px 10px;
+    /* 两行内放得下：100vw - 左右各 24px - 品牌最宽约 122px - 8px 间距 - 余量 */
+    max-width: min(10.5em, calc(100vw - 180px));
+  }
+
+  /* 手机端留白收紧 */
+  .section { padding: 52px 0; }
+  .hero { padding: 36px 0 56px; }
+  .cta-band { padding: 64px 0; }
+  .page-head { padding: 44px 0 12px; }
+  .group-card { padding: 26px 20px; }
+  .groups.stack .group-card { padding: 20px 18px; }
+  .role { padding: 22px 18px; }
+  .honest { padding: 36px 22px; border-radius: 22px; }
+  .contact-card { padding: 28px 22px; }
+  .faq summary { padding: 17px 18px; }
+  .faq .faq-body { padding: 0 18px 18px; }
+  .footer-row a { padding: 6px 0; }
+
   .shots { grid-template-columns: 1fr; }
   .float-chip { display: none; }
 }
